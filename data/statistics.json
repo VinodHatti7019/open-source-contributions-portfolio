@@ -1,0 +1,172 @@
+{
+  "generated_at": "2025-10-16T06:20:34.726871",
+  "overall": {
+    "total_commits": 170,
+    "total_prs": 6,
+    "total_issues": 17,
+    "total_repositories": 16,
+    "merged_prs": 3,
+    "open_prs": 1,
+    "closed_issues": 5,
+    "open_issues": 12,
+    "forked_repos": 5,
+    "own_repos": 11,
+    "pr_merge_rate": 50.0,
+    "issue_closure_rate": 29.4
+  },
+  "streaks": {
+    "current_streak": 6,
+    "longest_streak": 6,
+    "last_contribution": "2025-10-16"
+  },
+  "languages": {
+    "Python": {
+      "count": 8,
+      "percentage": 72.7
+    },
+    "Unknown": {
+      "count": 3,
+      "percentage": 27.3
+    }
+  },
+  "repositories": {
+    "repositories": [
+      {
+        "repository": "VinodHatti7019/Voice-GenAI-Tool",
+        "commits": 31,
+        "prs": 0,
+        "issues": 4,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 35
+      },
+      {
+        "repository": "VinodHatti7019/Codev",
+        "commits": 30,
+        "prs": 3,
+        "issues": 1,
+        "stars": 1,
+        "forks": 0,
+        "activity_score": 34
+      },
+      {
+        "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+        "commits": 25,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 26
+      },
+      {
+        "repository": "VinodHatti7019/AI-Interview-Assistant",
+        "commits": 18,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 19
+      },
+      {
+        "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+        "commits": 15,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 15
+      },
+      {
+        "repository": "VinodHatti7019/AI-Resume-Reviewer",
+        "commits": 13,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 14
+      },
+      {
+        "repository": "VinodHatti7019/IknowAI",
+        "commits": 13,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 13
+      },
+      {
+        "repository": "VinodHatti7019/GenDev",
+        "commits": 9,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 10
+      },
+      {
+        "repository": "VinodHatti7019/About-Me",
+        "commits": 3,
+        "prs": 0,
+        "issues": 6,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 9
+      },
+      {
+        "repository": "VinodHatti7019/open-source-contributions-portfolio",
+        "commits": 7,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 7
+      },
+      {
+        "repository": "VinodHatti7019/vinod-journey-2025",
+        "commits": 6,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 7
+      },
+      {
+        "repository": "DonCharlesLambert/shippuden-stories",
+        "commits": 0,
+        "prs": 2,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 2
+      },
+      {
+        "repository": "HKUDS/DeepCode",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
+        "repository": "ishandutta2007/Top-AI-repos",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      }
+    ]
+  },
+  "trends": {
+    "monthly": [
+      {
+        "month": "2025-10",
+        "commits": 170,
+        "prs": 6,
+        "issues": 17
+      }
+    ]
+  }
+}

@@ -52,19 +52,18 @@ This repository serves as a **living document** of my open source contributions.
 
 | Metric | Count | Last Updated |
 |--------|-------|-------------|
-| Total Commits | `TBD` | `Auto-updated` |
-| Pull Requests | `TBD` | `Auto-updated` |
-| Issues Opened | `TBD` | `Auto-updated` |
-| Repositories Contributed | `TBD` | `Auto-updated` |
-| Active Forks | `TBD` | `Auto-updated` |
-| Code Reviews | `TBD` | `Auto-updated` |
+| Total Commits | `170` | `2025-10-16` |
+| Pull Requests | `6` | `2025-10-16` |
+| Issues Opened | `17` | `2025-10-16` |
+| Repositories Contributed | `16` | `2025-10-16` |
+| Active Forks | `5` | `2025-10-16` |
+| Own Repositories | `11` | `2025-10-16` |
 
 ### Contribution Streak
 
-🔥 **Current Streak**: `TBD days`  
-⭐ **Longest Streak**: `TBD days`  
-📅 **Last Contribution**: `TBD`
-
+🔥 **Current Streak**: `6 days`  
+⭐ **Longest Streak**: `6 days`  
+📅 **Last Contribution**: `2025-10-16`
 <!-- AUTO-GENERATED-STATS:END -->
 
 ---
@@ -78,22 +77,42 @@ This repository serves as a **living document** of my open source contributions.
 
 | Date | Repository | Commit | Description | Link |
 |------|-----------|--------|-------------|------|
-| `YYYY-MM-DD` | `repo-name` | `abc1234` | Commit description | [🔗 View](link) |
-| `YYYY-MM-DD` | `repo-name` | `def5678` | Commit description | [🔗 View](link) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `31fde8c` | feat: Add update_readme.py for automated README ge... | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/31fde8c0a6aac2c3fece7bc6f26f919127971780) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `0ce7dbc` | feat: Add generate_stats.py for comprehensive stat... | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/0ce7dbcd77bd46e39882e94dc9fcb0c6771d79c4) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `72e17fd` | feat: Add fetch_contributions.py script for GitHub... | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/72e17fd6e319a7f36539a0fadbaa6a5ad6022043) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `724c6e0` | Add requirements.txt for project dependencies | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/724c6e0a40d52d07da7d12e846b403230189fcfd) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `23140da` | feat: Add GitHub Actions workflow for auto-updatin... | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/23140da22b18b927667ea38511e67bfa63813b82) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `53129ed` | feat: Initialize comprehensive open source contrib... | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/53129ed9bd325f39c9576c4ca34f36e253b04c8a) |
+| `2025-10-16` | `open-source-contributions-portfolio` | `08ff4e9` | Initial commit | [🔗 View](https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/08ff4e972fd2ff532ed5edfd3b1cbb92bffe156d) |
+| `2025-10-16` | `Voice-GenAI-Tool` | `69d4b1b` | Add @pytest.mark.skip to tests requiring external ... | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/69d4b1bff50ed5dc2a126b25a49b5db775cb90d6) |
+| `2025-10-16` | `Voice-GenAI-Tool` | `ea65c12` | Add health endpoint test to basic tests | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/ea65c128fb87c7a83de8e08db9e1efad791870f7) |
+| `2025-10-16` | `Voice-GenAI-Tool` | `879968e` | Clean up requirements.txt for CI compatibility | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/879968e7c8b65f4357deda13697674f382c78ab9) |
 
 #### Pull Requests
 
 | Date | Repository | PR # | Title | Status | Link |
 |------|-----------|------|-------|--------|------|
-| `YYYY-MM-DD` | `repo-name` | `#123` | PR title | ✅ Merged | [🔗 View](link) |
-| `YYYY-MM-DD` | `repo-name` | `#124` | PR title | 🔄 Open | [🔗 View](link) |
+| `2025-10-14` | `Codev` | `#10` | Add collaboration feature documentation | ✅ Merged | [🔗 View](https://github.com/VinodHatti7019/Codev/pull/10) |
+| `2025-10-14` | `Codev` | `#8` | Add Feature Update 2 with collaborative ... | ✅ Merged | [🔗 View](https://github.com/VinodHatti7019/Codev/pull/8) |
+| `2025-10-14` | `Codev` | `#7` | Add Feature Update 1 section to README | ✅ Merged | [🔗 View](https://github.com/VinodHatti7019/Codev/pull/7) |
+| `2025-10-14` | `DeepCode` | `#49` | Update .gitignore: Add logs/, deepcode_l... | 🔄 Open | [🔗 View](https://github.com/HKUDS/DeepCode/pull/49) |
+| `2025-10-14` | `shippuden-stories` | `#10` | Add playable story for Daily Challenge (... | ❌ Closed | [🔗 View](https://github.com/DonCharlesLambert/shippuden-stories/pull/10) |
+| `2025-10-14` | `shippuden-stories` | `#9` | Add story for Daily Challenge (Oct 14, 2... | ❌ Closed | [🔗 View](https://github.com/DonCharlesLambert/shippuden-stories/pull/9) |
 
 #### Issues
 
 | Date | Repository | Issue # | Title | Status | Link |
 |------|-----------|---------|-------|--------|------|
-| `YYYY-MM-DD` | `repo-name` | `#45` | Issue title | 🔓 Open | [🔗 View](link) |
-| `YYYY-MM-DD` | `repo-name` | `#46` | Issue title | ✅ Closed | [🔗 View](link) |
+| `2025-10-14` | `Voice-GenAI-Tool` | `#1` | Voice-GenAI-Tool | ✅ Closed | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/1) |
+| `2025-10-14` | `Voice-GenAI-Tool` | `#2` | Backend integration | ✅ Closed | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/2) |
+| `2025-10-14` | `Voice-GenAI-Tool` | `#4` | Deployment | ✅ Closed | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/4) |
+| `2025-10-14` | `Voice-GenAI-Tool` | `#3` | Frontend UI | ✅ Closed | [🔗 View](https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/3) |
+| `2025-10-14` | `Codev` | `#5` | Codev - AI-powered development tool | 🔓 Open | [🔗 View](https://github.com/VinodHatti7019/Codev/issues/5) |
+| `2025-10-15` | `Top-AI-repos` | `#1` | Thank You for Following & Invitation to ... | 🔓 Open | [🔗 View](https://github.com/ishandutta2007/Top-AI-repos/issues/1) |
+| `2025-10-14` | `About-Me` | `#6` | Documentation update for new features | 🔓 Open | [🔗 View](https://github.com/VinodHatti7019/About-Me/issues/6) |
+| `2025-10-14` | `About-Me` | `#5` | Remove emoji, add professional icons | 🔓 Open | [🔗 View](https://github.com/VinodHatti7019/About-Me/issues/5) |
+| `2025-10-14` | `About-Me` | `#4` | API connection to backend | 🔓 Open | [🔗 View](https://github.com/VinodHatti7019/About-Me/issues/4) |
+| `2025-10-14` | `About-Me` | `#3` | Integrate task chat interface | 🔓 Open | [🔗 View](https://github.com/VinodHatti7019/About-Me/issues/3) |
 
 <!-- AUTO-GENERATED-CONTRIBUTIONS:END -->
 
@@ -104,15 +123,18 @@ This repository serves as a **living document** of my open source contributions.
 <!-- AUTO-GENERATED-REPOS:START -->
 ### My Active Projects
 
-| Repository | Description | Stars | Forks | Last Updated |
-|-----------|-------------|-------|-------|-------------|
-| [repo-name](link) | Project description | ⭐ X | 🍴 Y | `YYYY-MM-DD` |
-
-### Forked Repositories
-
-| Original Repo | My Fork | Contributions | Status |
-|--------------|---------|---------------|--------|
-| [original](link) | [my-fork](link) | `X commits` | 🔄 Active |
+| Repository | Commits | PRs | Issues | Last Activity |
+|-----------|---------|-----|--------|---------------|
+| `Voice-GenAI-Tool` | `31` | `0` | `4` | - |
+| `Codev` | `30` | `3` | `1` | - |
+| `GenAI-Engineer-Journey-8Months-Zero-to-Hero` | `25` | `0` | `1` | - |
+| `AI-Interview-Assistant` | `18` | `0` | `1` | - |
+| `ChatPDF-QA-Agent` | `15` | `0` | `0` | - |
+| `AI-Resume-Reviewer` | `13` | `0` | `1` | - |
+| `IknowAI` | `13` | `0` | `0` | - |
+| `GenDev` | `9` | `0` | `1` | - |
+| `About-Me` | `3` | `0` | `6` | - |
+| `open-source-contributions-portfolio` | `7` | `0` | `0` | - |
 
 <!-- AUTO-GENERATED-REPOS:END -->
 
@@ -183,30 +205,9 @@ This repository serves as a **living document** of my open source contributions.
 ### Language Distribution
 
 ```
-JavaScript   ████████████░░░░░░░░  60%
-Python       ██████░░░░░░░░░░░░░░  30%
-Go           ███░░░░░░░░░░░░░░░░░  10%
+Python          ██████████████░░░░░░  72.7%
+Unknown         █████░░░░░░░░░░░░░░░  27.3%
 ```
-
-### Contribution Heatmap
-
-```
-Mon  ▓▓▓░░░░
-Tue  ▓▓▓▓▓░░
-Wed  ▓▓▓▓▓▓▓
-Thu  ▓▓▓▓░░░
-Fri  ▓▓▓▓▓▓░
-Sat  ▓▓░░░░░
-Sun  ▓░░░░░░
-```
-
-### Monthly Contribution Trend
-
-| Month | Commits | PRs | Issues |
-|-------|---------|-----|--------|
-| Jan 2025 | `X` | `Y` | `Z` |
-| Feb 2025 | `X` | `Y` | `Z` |
-
 <!-- AUTO-GENERATED-ANALYTICS:END -->
 
 ---
@@ -270,6 +271,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ![GitHub Repo stars](https://img.shields.io/github/stars/VinodHatti7019/open-source-contributions-portfolio?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/VinodHatti7019?style=social)
 
-*Last auto-update: `TBD` via GitHub Actions*
+*Last auto-update: `2025-10-16 06:20:34 UTC` via GitHub Actions*
 
 </div>

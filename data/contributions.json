@@ -1,0 +1,1832 @@
+{
+  "metadata": {
+    "last_updated": "2025-10-16T06:20:06.250051",
+    "username": "VinodHatti7019"
+  },
+  "commits": [
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "31fde8c",
+      "message": "feat: Add update_readme.py for automated README generation",
+      "date": "2025-10-16T06:19:42+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/31fde8c0a6aac2c3fece7bc6f26f919127971780"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "0ce7dbc",
+      "message": "feat: Add generate_stats.py for comprehensive statistics generation",
+      "date": "2025-10-16T06:16:59+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/0ce7dbcd77bd46e39882e94dc9fcb0c6771d79c4"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "72e17fd",
+      "message": "feat: Add fetch_contributions.py script for GitHub API data collection",
+      "date": "2025-10-16T06:15:15+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/72e17fd6e319a7f36539a0fadbaa6a5ad6022043"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "724c6e0",
+      "message": "Add requirements.txt for project dependencies",
+      "date": "2025-10-16T06:13:34+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/724c6e0a40d52d07da7d12e846b403230189fcfd"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "23140da",
+      "message": "feat: Add GitHub Actions workflow for auto-updating portfolio",
+      "date": "2025-10-16T06:12:10+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/23140da22b18b927667ea38511e67bfa63813b82"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "53129ed",
+      "message": "feat: Initialize comprehensive open source contributions portfolio",
+      "date": "2025-10-16T06:10:25+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/53129ed9bd325f39c9576c4ca34f36e253b04c8a"
+    },
+    {
+      "repository": "VinodHatti7019/open-source-contributions-portfolio",
+      "repo_url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "sha": "08ff4e9",
+      "message": "Initial commit",
+      "date": "2025-10-16T06:08:44+00:00",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio/commit/08ff4e972fd2ff532ed5edfd3b1cbb92bffe156d"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "69d4b1b",
+      "message": "Add @pytest.mark.skip to tests requiring external APIs",
+      "date": "2025-10-16T01:35:52+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/69d4b1bff50ed5dc2a126b25a49b5db775cb90d6"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "ea65c12",
+      "message": "Add health endpoint test to basic tests",
+      "date": "2025-10-16T00:35:08+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/ea65c128fb87c7a83de8e08db9e1efad791870f7"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "879968e",
+      "message": "Clean up requirements.txt for CI compatibility",
+      "date": "2025-10-16T00:33:23+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/879968e7c8b65f4357deda13697674f382c78ab9"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "3e1ad85",
+      "message": "Fix: Comment out pyaudio (requires PortAudio system library)",
+      "date": "2025-10-15T21:14:56+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/3e1ad854264e23a5562e8cfe4d7b1d0e18a06322"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "dbec0b4",
+      "message": "Fix: Replace aws-sdk with boto3, jwt with PyJWT, comment out built-in modules",
+      "date": "2025-10-15T21:10:30+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/dbec0b40e8fff2558139e0c984df01e6b608bccc"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "d5e33a4",
+      "message": "Fix: Replace whisper-openai with openai-whisper and comment out invalid packages",
+      "date": "2025-10-15T21:07:39+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/d5e33a401b1b9d48933dfe263de2bcd6fc9b856e"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "9dc82ca",
+      "message": "Fix: Change speech-recognition to SpeechRecognition",
+      "date": "2025-10-15T20:59:39+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/9dc82ca487cd35e4a2e680d5475a5c46cb29c188"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "61f3fe4",
+      "message": "Fix CI: Update upload-artifact from v3 to v4",
+      "date": "2025-10-15T20:55:35+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/61f3fe40a24b221f174eaf36a256c5fe0a7d477d"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "eec7672",
+      "message": "docs: enhance README with GitHub badges for open-source growth",
+      "date": "2025-10-15T20:21:50+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/eec767274e9abbae33d0e2e9f940cce158dce4a2"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "75f2f68",
+      "message": "docs: add CONTRIBUTING.md with contribution guidelines",
+      "date": "2025-10-15T20:19:26+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/75f2f6854d518d02c2cbb259db6f58bf207e0908"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "cf7e936",
+      "message": "Add comprehensive UI guide with screenshots and usage instructions",
+      "date": "2025-10-15T20:06:45+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/cf7e936edbc7feaa35bc42c1120f2f9d3b3f9859"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "8fb18b2",
+      "message": "Add comprehensive advanced test suite (test_advanced.py)",
+      "date": "2025-10-15T20:03:55+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/8fb18b288739c13aaa0e6921a5d7f198886dee40"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "68d2dd1",
+      "message": "Add coverage badge and pytest-cov setup instructions to README",
+      "date": "2025-10-15T20:01:31+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/68d2dd11db64fd670575005cc991d8b6eea9e313"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "84d33f1",
+      "message": "Add configuration module with CORS support - Resolves #2",
+      "date": "2025-10-15T19:45:34+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/84d33f1bc5b72ad320643d6df7a45523f7a5bfe2"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "8b2c4dd",
+      "message": "Add environment configuration for backend integration - Partial fix for #2",
+      "date": "2025-10-15T19:43:29+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/8b2c4dd8973e7d741f8fd9f40c08658a15ee5e46"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "327af04",
+      "message": "Add docker-compose configuration for deployment - Resolves #4",
+      "date": "2025-10-15T19:40:45+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/327af04adb4dae2f376e95a758f7d61656ac6b40"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "f541b31",
+      "message": "Add Dockerfile for containerized deployment - Partial fix for #4",
+      "date": "2025-10-15T19:39:13+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/f541b31db83cf482d090b1885a0664feed772e22"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "c5f270c",
+      "message": "Add responsive frontend UI for Voice GenAI Tool - Resolves #3",
+      "date": "2025-10-15T19:36:59+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/c5f270c4530b57e9b234d6ff4a92b8b0de2f5820"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "239efcc",
+      "message": "feat: add CI workflow for automated agent validation and testing",
+      "date": "2025-10-15T19:30:14+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/239efccd18ae182f2bdedfabb2c0892a2c229ee1"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "2aecd8b",
+      "message": "Add comprehensive API reference documentation",
+      "date": "2025-10-15T19:22:42+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/2aecd8b6a06dfe04dda69d73bfef1a7f4a4969a8"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "7431da5",
+      "message": "Add comprehensive architecture documentation",
+      "date": "2025-10-15T19:15:54+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/7431da5d4133929d655752add905d74854407881"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "dd65463",
+      "message": "Add pytest health check tests",
+      "date": "2025-10-15T19:13:36+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/dd654632133445aac918da4905536fdb320eca00"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "b3b148e",
+      "message": "Add core AI/ML modules for voice processing",
+      "date": "2025-10-15T18:54:58+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/b3b148eb5480299430d7261fab5eadfb74abc75b"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "36bc7d7",
+      "message": "Implement API module for Voice GenAI Tool",
+      "date": "2025-10-15T18:52:03+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/36bc7d78839f160ea3ad17f6ff0be1e6404da791"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "46b1a28",
+      "message": "Add production-ready main.py entry point",
+      "date": "2025-10-15T18:50:44+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/46b1a280fca68ac6508245bfcc06b864e8df07ac"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "a7f2de1",
+      "message": "Add production-ready logging system with structured logging and performance monitoring",
+      "date": "2025-10-15T18:45:20+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/a7f2de14551b87ca34e86e0f06077fcbf4858464"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "977abf2",
+      "message": "Add comprehensive configuration management with Pydantic settings",
+      "date": "2025-10-15T18:42:47+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/977abf2026bf0ca67d6f154e6e1a0546033f60d3"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "e318911",
+      "message": "Add comprehensive FastAPI main application with production-ready features",
+      "date": "2025-10-15T18:41:11+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/e318911eebdac4603e72dd94ed7e4c47b54a1cd0"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "434c9d4",
+      "message": "Add comprehensive requirements.txt with AI/ML dependencies",
+      "date": "2025-10-15T18:39:35+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/434c9d4e3c66ef5ee73edad2d5eebd598565042f"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "3be22d9",
+      "message": "Add FUNDING.yml to enable sponsor button and encourage community contributions",
+      "date": "2025-10-15T18:11:35+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/3be22d9b330dbaf3ec07f79a98c69e4f6291252d"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "eef5e45",
+      "message": "Update README.md with detailed, branded content including badges, sections, quick start, and community info",
+      "date": "2025-10-15T17:57:32+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/eef5e45b75c3a5d40c9c2ceac1cbeb0a7dd87a52"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "37350aa",
+      "message": "Fix README.md markdownlint errors",
+      "date": "2025-10-15T16:47:06+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/37350aaad3c008da90c1af1a6c3afe2316381092"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "3dac7a6",
+      "message": "Fix YAML linting errors in main.yml workflow",
+      "date": "2025-10-15T16:00:59+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/3dac7a6397ee39f08c7fd5dd340dcd54d29af0c6"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "bccaafc",
+      "message": "Fix YAML line-length issues and markdownlint config",
+      "date": "2025-10-15T15:57:59+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/bccaafc6491723d919f556fd0e9413741a52edef"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "10d0bae",
+      "message": "Fix YAML linting errors in CI/CD workflow",
+      "date": "2025-10-15T15:54:30+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/10d0baefe839d529d95b581ec708886077e16535"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "f11a27c",
+      "message": "Add advanced CI/CD checks workflow",
+      "date": "2025-10-15T15:47:47+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/f11a27c38e2139d3293210af4e80639987b4984e"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "0062e97",
+      "message": "Merge pull request #1 from VinodHatti7019/copilot/create-ai-agent-automation-system",
+      "date": "2025-10-15T15:43:39+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/0062e97d85ad7cd363d3d05e7ac0ee0c8efcea6b"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "cf42a14",
+      "message": "Merge branch 'main' into copilot/create-ai-agent-automation-system",
+      "date": "2025-10-15T15:42:33+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/cf42a14ef23b3980361b28141668a6dda4e20956"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "0481801",
+      "message": "Fix YAML syntax error in main.yml workflow - correct jobs indentation",
+      "date": "2025-10-15T15:31:31+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/04818014d8d404e69796a72170ef1ebe099f4eba"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "5b2867e",
+      "message": "Add automated welcome workflow for first-time contributors",
+      "date": "2025-10-15T00:18:59+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/5b2867e36fe6803a2e683d7021d5fbc89c9463ea"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "914e5d9",
+      "message": "Add pull request template for contributions",
+      "date": "2025-10-15T00:15:10+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/914e5d9e40742c0f0ed5cb2eb126144984af512f"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "9289701",
+      "message": "Update issue templates",
+      "date": "2025-10-15T00:13:50+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/928970104ccd22ac343fef43464d1f5ace8fa115"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "c488c59",
+      "message": "Create contributor onboarding checklist",
+      "date": "2025-10-14T23:44:22+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/c488c59d978951eea2ed8527e42863fcf62da04e"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "bd4f9fd",
+      "message": "Add AI-Powered Task Automation Tool",
+      "date": "2025-10-14T23:42:01+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/bd4f9fdd8080bda0cea3679143472495550ea497"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "e09ebac",
+      "message": "Add first AI automation example for email categorization",
+      "date": "2025-10-14T23:39:34+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/e09ebac2fd2a3fbdc65d72f5d98460a62426ca48"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "6496624",
+      "message": "Add comprehensive welcome guide for new contributors",
+      "date": "2025-10-14T23:38:02+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/6496624ce5d4ef260f91d42d0d210ae2dc5b2fd7"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "e8ce646",
+      "message": "Add tools directory structure with comprehensive README",
+      "date": "2025-10-14T23:24:37+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/e8ce646f175b030c8e869c4375fe322079e6e7e1"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "7009436",
+      "message": "Add knowledge-base directory structure with README",
+      "date": "2025-10-14T23:23:00+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/7009436948433e4ec364e714562c27021b851d60"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "0a6942f",
+      "message": "Add Code of Conduct for community guidelines",
+      "date": "2025-10-14T23:20:37+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/0a6942f1b7ccb4537d5ad59f80f70deb1ae328b5"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "bc4f5db",
+      "message": "Add comprehensive CONTRIBUTING.md with community guidelines",
+      "date": "2025-10-14T23:18:45+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/bc4f5dbfc18be10b75c2b19e8d21c6621ec1c1e4"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "354b184",
+      "message": "Create comprehensive README with #IknowAI branding and Reset to 0 Mindset",
+      "date": "2025-10-14T23:12:26+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/354b18449b87b48d744af065040ed55226e964a2"
+    },
+    {
+      "repository": "VinodHatti7019/IknowAI",
+      "repo_url": "https://github.com/VinodHatti7019/IknowAI",
+      "sha": "4dd0639",
+      "message": "Initial commit",
+      "date": "2025-10-14T23:10:07+00:00",
+      "url": "https://github.com/VinodHatti7019/IknowAI/commit/4dd063987b7b12c2ee633b06a20da0980c174f87"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "dfd3656",
+      "message": "Merge pull request #10 from VinodHatti7019/collab-feature",
+      "date": "2025-10-14T22:36:05+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/dfd3656b691f27054ae57f72528bb86969ca12fe"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "c047ede",
+      "message": "Add collaboration feature documentation",
+      "date": "2025-10-14T22:34:14+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/c047ede64f617fbaed1b80bae5aebb34584e2ced"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "c2e8a5f",
+      "message": "Merge pull request #8 from VinodHatti7019/feature/update-2",
+      "date": "2025-10-14T22:20:43+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/c2e8a5fcfd1ba110a7e31e833b0df4f125dc736d"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "f032ef8",
+      "message": "Add Feature Update 2 with collaborative features",
+      "date": "2025-10-14T22:17:38+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/f032ef879df114fc570c723c2b1d8927f4ea040f"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "ed593fe",
+      "message": "Merge pull request #7 from VinodHatti7019/feature/update-1",
+      "date": "2025-10-14T22:14:34+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/ed593fea229ddcd6df4df188766611c7e80fbdb0"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "f893837",
+      "message": "Add Feature Update 1 section to README",
+      "date": "2025-10-14T22:12:30+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/f89383757a1dd31b99aff6d0bad38e839fb9e1d2"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "71cbb9b",
+      "message": "Add comprehensive Demo/README.md for recruiters and demo users",
+      "date": "2025-10-14T21:48:21+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/71cbb9b9eed42d1546fbc623f85d2f95e78e33bd"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "accebdb",
+      "message": "Add requirements.txt with comprehensive project dependencies",
+      "date": "2025-10-14T21:28:47+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/accebdb77f2c3767592486d532db3f96618494d3"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "add00e6",
+      "message": "Add generator.py with LLM answer generation and citations",
+      "date": "2025-10-14T21:25:27+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/add00e6d7fbb68be7b61e2b77ca61652b97fdeac"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "2538d56",
+      "message": "Add retriever.py with document retrieval logic",
+      "date": "2025-10-14T21:23:22+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/2538d56af7ac913dea70eee597ba66d5c1d08cc7"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "5d25311",
+      "message": "Add vector.py with vector storage functionality",
+      "date": "2025-10-14T21:21:21+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/5d2531194cec097dafaac9f96fa4b78278e1c3d4"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "a840f7d",
+      "message": "Add embedder.py with embedding generation",
+      "date": "2025-10-14T21:13:14+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/a840f7db97f0f8a31865d61e7ae4e5f5920ae6c0"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "37a62d3",
+      "message": "Add chunker.py with text chunking strategies",
+      "date": "2025-10-14T21:10:59+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/37a62d3ff3482b9d282cc3956500c7bf417db9a3"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "61d1cac",
+      "message": "Add loaders.py with PDF loading functionality",
+      "date": "2025-10-14T21:08:31+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/61d1cac78d6365b3f79a892ca7710724aeb309de"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "1c0cb56",
+      "message": "Add RAG package __init__.py with module imports",
+      "date": "2025-10-14T21:06:34+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/1c0cb5644cfa3365f8a3942bd7a3684a8bfec7ed"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "a2d635e",
+      "message": "Add embeddings module with OpenAI integration",
+      "date": "2025-10-14T21:04:56+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/a2d635ee6999e2a77846dbdc8620da48a331136b"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "4f8d0be",
+      "message": "Add text chunker with multiple strategies",
+      "date": "2025-10-14T20:57:13+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/4f8d0be5f570aff120c446a884039db9afa64adb"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "4901f60",
+      "message": "Add document loader with PDF, DOCX, TXT support",
+      "date": "2025-10-14T20:55:43+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/4901f6002d163a3167d667253a3a741f05004552"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "669304d",
+      "message": "Add config module with Pydantic validation",
+      "date": "2025-10-14T20:53:40+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/669304df0f68d6a28b7f2963371dd881cea81d3c"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "745afce",
+      "message": "Add Demo/README.md - Comprehensive project guide for recruiters and demos",
+      "date": "2025-10-14T20:25:42+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/745afce333c142deaded17e9019486499c270da8"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "7ae237f",
+      "message": "Add Dockerfile - Production-ready multi-stage containerization with health checks",
+      "date": "2025-10-14T20:06:53+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/7ae237f9c5b54102d2a2237c856767252c30cf23"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "a669fcf",
+      "message": "Add .env.example - Comprehensive environment configuration template",
+      "date": "2025-10-14T20:04:22+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/a669fcf1e5eb40f6e056cd19d96601c9b335e854"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "3ce766f",
+      "message": "Add requirements.txt - Complete Python dependencies for production deployment",
+      "date": "2025-10-14T20:01:58+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/3ce766f15447858044e2571cdc2d6f2aca570b63"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "7a3f839",
+      "message": "Add utils.py - Comprehensive utility functions for config, logging, and formatting",
+      "date": "2025-10-14T19:59:49+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/7a3f839d989e86c4dbd8a44b49adf6b0cd459b13"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "b55e31e",
+      "message": "Initialize ASR module with imports and exports",
+      "date": "2025-10-14T19:57:20+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/b55e31ec9fb216d688c5229fc8e9cc9489e2b7ca"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "5644213",
+      "message": "Add asr/webrtc.py - WebRTC manager for real-time audio streaming",
+      "date": "2025-10-14T19:56:08+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/5644213c56235a2940e3b40021fe50656f7add64"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "466a845",
+      "message": "Add asr/whisper.py - Whisper ASR integration for real-time transcription",
+      "date": "2025-10-14T19:54:23+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/466a845b5854c406e319e3db22fcb989bda7b40f"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "f437766",
+      "message": "Add export.py - PDF and CSV export utilities",
+      "date": "2025-10-14T19:38:08+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/f437766b1a9cfabfb773978b2ac359764a25787d"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "60ec7de",
+      "message": "Add analytics.py - Interview performance analytics module",
+      "date": "2025-10-14T19:30:08+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/60ec7dea39a95cb2291e8b7319a94a87c44b3d8c"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "bd4e4a1",
+      "message": "Implement FeedbackEngine class for interview feedback",
+      "date": "2025-10-14T19:25:43+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/bd4e4a1fd8bc07779e90746b31c6ff872cb75c79"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "1ef15ac",
+      "message": "Add ScoringEngine with heuristic scoring and breakdown per category",
+      "date": "2025-10-14T19:24:20+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/1ef15ac09fa25dcca6f963c8f0ed2dc2613374f0"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "8cb2f99",
+      "message": "Add QuestionGenerator with starter sets for technical, behavioral, design",
+      "date": "2025-10-14T19:23:18+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/8cb2f99a74252bcfbeb4dc67b3ba01b375be20b1"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "6b485a5",
+      "message": "Add InterviewSession class for managing interview process",
+      "date": "2025-10-14T19:22:15+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/6b485a5a6fd04f167a4dc3398f784991273e6af0"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "c70ae21",
+      "message": "Add FastAPI backend main.py with endpoints for interviews, ASR, analytics, export",
+      "date": "2025-10-14T19:20:30+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/c70ae214e461f6466a9f0c2a1764d819594b1885"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "f6755f2",
+      "message": "Add main Streamlit app.py with dark theme UI and full interview functionality",
+      "date": "2025-10-14T19:17:29+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/f6755f2b1930a241e57b542f5ef4a9e2d7f5c02d"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "7a4d2eb",
+      "message": "Fix: Import ResumeReportGenerator as ReportGenerator alias",
+      "date": "2025-10-14T17:39:58+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/7a4d2eb5ae440602b9e8ae444df28603eb9ad935"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "476185d",
+      "message": "Fix: Remove non-existent config.settings import to make app.py runnable",
+      "date": "2025-10-14T17:34:58+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/476185de7b85f32cea9369148dddeab2898f00be"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "013a5ea",
+      "message": "Create report_generator.py for PDF report generation",
+      "date": "2025-10-14T02:27:58+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/013a5eaa37e89d1c97499a08d72296d2310657cd"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "1e494f3",
+      "message": "Add ATS checker module",
+      "date": "2025-10-14T02:24:11+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/1e494f349765b1677e19e78c720809a9a1802f37"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "59f8da4",
+      "message": "Add keyword analyzer module",
+      "date": "2025-10-14T02:22:22+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/59f8da48ab403601b6d1af3a202172f1e2846cba"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "ba499b7",
+      "message": "Add resume scorer module with comprehensive scoring logic",
+      "date": "2025-10-14T02:19:54+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/ba499b7869c10d9a134526d44427b259d1d80acb"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "0119c94",
+      "message": "Add resume parser module",
+      "date": "2025-10-14T02:14:44+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/0119c940eea583e7081de3dec991698718c48cc6"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "b5db4c7",
+      "message": "Add resume_analyzer package __init__.py",
+      "date": "2025-10-14T02:13:04+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/b5db4c7a5b725f42bf92a5e5917f940133ae573e"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "3f2ba08",
+      "message": "Add .env.example configuration file",
+      "date": "2025-10-14T02:11:48+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/3f2ba0822b1c0a68656662d9590a730d94472be1"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "57dd30e",
+      "message": "Add requirements.txt with all dependencies",
+      "date": "2025-10-14T02:10:31+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/57dd30ea60b24eb4fa4b503ef74f37d2335a0cc3"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "21288dc",
+      "message": "Add main Streamlit application (app.py)",
+      "date": "2025-10-14T02:09:15+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/21288dc5f8e0e819fe1af9bf28e521ad03493275"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "9bfa203",
+      "message": "Create root layout for Codev Web UI",
+      "date": "2025-10-14T01:29:59+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/9bfa203acdea7db195b5647859c97ff5cbd677bb"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "9c1f555",
+      "message": "Add global CSS styles for Codev Web UI",
+      "date": "2025-10-14T01:27:40+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/9c1f555488aa97375624fb037b82b29e133e0234"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "8eb97b4",
+      "message": "Add PostCSS configuration for Tailwind CSS",
+      "date": "2025-10-14T01:25:00+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/8eb97b4ae752b4b7df1d95654bf0734f9fb0d1ac"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "9c273dc",
+      "message": "Add Next.js configuration for web UI",
+      "date": "2025-10-14T01:22:50+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/9c273dc3f382f7ce4b19e52fbb6119a13380b430"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "89ba379",
+      "message": "Add Tailwind CSS configuration for dark theme UI",
+      "date": "2025-10-14T01:21:52+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/89ba379048ed69fc9e4e28ebdd1512effdc0caeb"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "3789872",
+      "message": "Add package.json for web UI project",
+      "date": "2025-10-14T01:20:39+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/3789872d9726a7c17e4d1ee9783a388c10132f1f"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "c74a995",
+      "message": "Add submit_script.py for LeetCode formatting",
+      "date": "2025-10-14T00:50:32+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/c74a99585c96b73820596239e2600e611ef251fd"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "7878c44",
+      "message": "Add test case generator for problem descriptions",
+      "date": "2025-10-14T00:48:53+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/7878c449770ac833cbf6a27f447069105bad0dda"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "786e6e5",
+      "message": "Add sample agent task demonstrating custom task creation",
+      "date": "2025-10-14T00:48:40+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/786e6e5d6dfcfc554671afb8f3306b2bd455de2f"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "65f1912",
+      "message": "Add requirements.txt - Python dependencies for Codev agent",
+      "date": "2025-10-14T00:47:10+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/65f191268dd9019d6e5f745cc0be06b35db3de4c"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "6274bc3",
+      "message": "Add example palindrome one-liner extension (strings)",
+      "date": "2025-10-14T00:46:24+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/6274bc37e006aca4b97fc7f426bc54689348400a"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "2d2dd01",
+      "message": "Implement Codev CLI for agent task execution",
+      "date": "2025-10-14T00:45:46+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/2d2dd019b8d72d080492c95f163217d327922b83"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "2342794",
+      "message": "Add DSA pattern library documentation to docs",
+      "date": "2025-10-14T00:44:56+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/23427946ef7810eac7ff5b7499314ca043876171"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "30b5e2b",
+      "message": "Add tool_registry.py - Registry system for agent plugins and tasks",
+      "date": "2025-10-14T00:44:38+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/30b5e2b0963849b39875aebc5cdc5df40b39deb7"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "1f4740c",
+      "message": "Add codev_agent.py - Main agent class for task orchestration",
+      "date": "2025-10-14T00:43:14+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/1f4740c209c02ae33b97c08b53c5fd6680e28f87"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "c1871c3",
+      "message": "Create GitHub Actions workflow for Task Hall of Fame",
+      "date": "2025-10-14T00:41:25+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/c1871c330cdfdea44d658c2fd0bf0211f1213909"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "1a01e9d",
+      "message": "Add comprehensive extension development guide to docs",
+      "date": "2025-10-14T00:32:00+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/1a01e9dbb0f615f56fdfe1c9b773b8efc43a0d7c"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "a9a9df6",
+      "message": "Add comprehensive getting-started guide to docs folder",
+      "date": "2025-10-14T00:29:01+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/a9a9df655ed38030bceb888d6da2c1ca4125935d"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "29a2158",
+      "message": "Add CONTRIBUTING.md with comprehensive community guidelines",
+      "date": "2025-10-14T00:27:12+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/29a21583a18b0831f27f37c88fb3398d7f153692"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "a9cb688",
+      "message": "Update README with comprehensive project vision and documentation",
+      "date": "2025-10-14T00:25:07+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/a9cb68848846b3fa8dbc33b64cc90452c8630fa0"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "sha": "632c44a",
+      "message": "Initial commit",
+      "date": "2025-10-14T00:23:47+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/commit/632c44a8d204d92e200a92cd1289f8c3ec5d11f5"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "a97831e",
+      "message": "✨ Enhance README with comprehensive documentation",
+      "date": "2025-10-14T00:18:36+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/a97831e739c5e48e72afca8f3eceae27b93b85d1"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "sha": "644ea51",
+      "message": "Initial commit",
+      "date": "2025-10-14T00:13:28+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/commit/644ea5195532952328bbd411e97b19f078a9c3ba"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "sha": "59c672c",
+      "message": "Add October 2025 Open Source Journey Milestones section",
+      "date": "2025-10-13T23:43:12+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/commit/59c672cf0bf15e9544a9b912377cd287b5cce491"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "sha": "c737368",
+      "message": "Update README: Add 4 domain paths, ATS-ready tech stack, 5 SaaS projects, BE ISE grad profile",
+      "date": "2025-10-13T03:11:57+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/commit/c7373680b1002c9afc33ecf61546b85acc0ba591"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "14f1303",
+      "message": "Add professional README for Voice GenAI Tool",
+      "date": "2025-10-12T18:17:46+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/14f1303eb2ea645979b244bb7542ad08f131560e"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "sha": "009fef0",
+      "message": "Initial commit",
+      "date": "2025-10-12T18:16:25+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/009fef0effa6d87ecd535dc358ed2bd7ee02f72c"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "a848821",
+      "message": "Add professional README for AI Interview Assistant",
+      "date": "2025-10-12T18:14:58+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/a84882153c1ab2d190aa14220bdb5d3c1fffb339"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "sha": "5a9d7e7",
+      "message": "Initial commit",
+      "date": "2025-10-12T18:13:14+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/5a9d7e72dc249b943c03c4fe2bba4950a489e356"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "0a3f1d9",
+      "message": "Add comprehensive professional README for ChatPDF Q&A Agent",
+      "date": "2025-10-12T18:12:11+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/0a3f1d9a1f28296c43ac2ba92ef6e9f5feedb11c"
+    },
+    {
+      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "sha": "3e9d8ff",
+      "message": "Initial commit",
+      "date": "2025-10-12T18:02:48+00:00",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/3e9d8ff52243fe1edceacfd645bee79c9b152562"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "9757753",
+      "message": "Create comprehensive professional README for AI Resume Reviewer",
+      "date": "2025-10-12T18:01:49+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/9757753f9a7ce8e717a1c972ee1413cb023b0721"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "sha": "060ba90",
+      "message": "Initial commit",
+      "date": "2025-10-12T17:59:52+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/060ba906aaae13554fa970288a75c033173d886c"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "sha": "a08e8c9",
+      "message": "Update README with professional GenAI Engineer profile",
+      "date": "2025-10-12T17:58:48+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/commit/a08e8c94e8adf3402cff0ea4fe9336fdaf757528"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "9ddc327",
+      "message": "Add Day 14 summary and mini-project template",
+      "date": "2025-10-12T17:24:14+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/9ddc32700de8ae071db3c8207004d24417fb8b6a"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "24a0960",
+      "message": "Create Day 13 markdown file for October 2025",
+      "date": "2025-10-12T17:19:45+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/24a0960076375ccd15cf8731fe78255dfd48e16e"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "6b092b6",
+      "message": "Add Day 12 entry for October 2025",
+      "date": "2025-10-12T17:15:51+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/6b092b63e0f91d8291589ca0cafc986ad0cac7bb"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "291a4c4",
+      "message": "Create Day 11 markdown file with structure",
+      "date": "2025-10-12T17:12:57+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/291a4c4424d4aaeca6b8f85a0f117932ed807974"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "67c4ee3",
+      "message": "Create Day 10 markdown file for October 2025",
+      "date": "2025-10-12T17:06:26+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/67c4ee3271e8700a88e15e00b87f2cf117916489"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "53fe4cb",
+      "message": "Add day 09 markdown file for October 2025",
+      "date": "2025-10-12T17:04:02+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/53fe4cb7b32eb21479dafe431b439a5e005779c0"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "5307d07",
+      "message": "Add Day 08 notes for October 2025",
+      "date": "2025-10-12T17:01:46+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/5307d071f036dcea1cbfd16dca8d1835a5ce528d"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "17c7d47",
+      "message": "Add Day 07 summary and mini-project template",
+      "date": "2025-10-12T17:00:17+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/17c7d470c0f3e1945d11031ab372ffcadd470eb5"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "2e24c37",
+      "message": "Add Day 06 markdown file for October 2025",
+      "date": "2025-10-12T16:59:05+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/2e24c371a5f928b92f9a9bbd24977ca6c635e8d6"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "e1e8705",
+      "message": "Add Day 05 notes for October 2025",
+      "date": "2025-10-12T16:57:47+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/e1e87058eeefdd6faf71db72d3e154530da013f2"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "905b420",
+      "message": "Add Day 04 notes for October 2025",
+      "date": "2025-10-12T16:56:32+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/905b420869a93c6364663601b5d0bebf10c3f9e3"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "956d99d",
+      "message": "Add Day 03 notes for October 2025",
+      "date": "2025-10-12T16:55:35+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/956d99d955af51ac639304d9771df68000bd7bbb"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "fc89d8c",
+      "message": "Create Day 02 markdown file for October 2025",
+      "date": "2025-10-12T16:54:28+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/fc89d8cdc41d39a9ac074bd19a57b48e17bd2e17"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "2986206",
+      "message": "Create day-01.md",
+      "date": "2025-10-12T16:53:33+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/29862065af9c32a6cb6c7182a61e893b31a7a9e1"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "d861ae8",
+      "message": "Add foundation-week README",
+      "date": "2025-10-12T15:38:59+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/d861ae8a293a540fc50b87c66e37e9be38d1aec2"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "b38592d",
+      "message": "Add month-08-october-2025 README - Final month!",
+      "date": "2025-10-12T15:33:07+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/b38592d4c627f61543a142ed2c029a2207edba04"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "f89e109",
+      "message": "Add month-07-september-2025 README",
+      "date": "2025-10-12T15:30:08+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/f89e109942626dfc36e2d8742fba77c31a34e2a3"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "29ba2c3",
+      "message": "Add month-06-august-2025 README",
+      "date": "2025-10-12T15:27:26+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/29ba2c31480eae7cf5d2ae05757a097df94bfc7e"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "0efb2f6",
+      "message": "Add month-05-july-2025 README",
+      "date": "2025-10-12T15:24:44+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/0efb2f613e4d9f1a488124b242ad94019728789d"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "0bc7c19",
+      "message": "Add month-04-june-2025 README",
+      "date": "2025-10-12T15:22:19+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/0bc7c1968381f6a3815adaa3fca9020d4d7de04d"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "b9ee4d7",
+      "message": "Add month-03-may-2025 README",
+      "date": "2025-10-12T15:20:23+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/b9ee4d7ce71b788e742dc814e4b66000a80a77b7"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "5971c48",
+      "message": "Add month-02-april-2025 README",
+      "date": "2025-10-12T15:18:35+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/5971c48ca192a60d89e3690d888914fab9ac2cfd"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "80383fc",
+      "message": "Add month-01-march-2025 README",
+      "date": "2025-10-12T15:16:35+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/80383fc2e34562b5a29f272837ad88d5e4bea72e"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "f5b0960",
+      "message": "Add professional README with 8-month GenAI roadmap, projects, and recruiter info",
+      "date": "2025-10-12T15:10:49+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/f5b096055fb20e5b558d34be3ce61975ff8dc76e"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "sha": "1395a69",
+      "message": "Initial commit",
+      "date": "2025-10-12T14:59:52+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/1395a690299da22511b7f4f7ce65e5cf7a1a5b69"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "178f9a0",
+      "message": "Refactor README for clarity and detail",
+      "date": "2025-10-12T12:55:54+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/178f9a0cfaf5e8f5ef92ac917a8f32c26e550218"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "5a9f644",
+      "message": "Add badges and quick access links to Introduction section",
+      "date": "2025-10-12T12:44:48+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/5a9f64457032019bd10d8066890ec7a958e89f87"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "6689261",
+      "message": "Transform README: Python/AI/ML/DSA focused career roadmap",
+      "date": "2025-10-11T19:58:00+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/66892613e0a4e8705dc5feb9b48ae40648176b2e"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "894dcb2",
+      "message": "Create foundation-week folder with comprehensive README",
+      "date": "2025-10-11T19:33:26+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/894dcb23ae84cac1dd4e75607b5e6e6daa354a64"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "11826a1",
+      "message": "Create comprehensive journey documentation README",
+      "date": "2025-10-11T19:30:56+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/11826a1c6b331425ba24ea80293ee2c79ad3fed7"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "sha": "22660f2",
+      "message": "Initial commit",
+      "date": "2025-10-11T19:23:14+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/22660f2fefc82dcc484dcf369188669b3f022c0f"
+    }
+  ],
+  "pull_requests": [
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "number": 10,
+      "title": "Add collaboration feature documentation",
+      "state": "closed",
+      "status": "merged",
+      "created_at": "2025-10-14T22:35:23+00:00",
+      "updated_at": "2025-10-14T22:36:05+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/pull/10"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "number": 8,
+      "title": "Add Feature Update 2 with collaborative features",
+      "state": "closed",
+      "status": "merged",
+      "created_at": "2025-10-14T22:19:30+00:00",
+      "updated_at": "2025-10-14T22:20:43+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/pull/8"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "number": 7,
+      "title": "Add Feature Update 1 section to README",
+      "state": "closed",
+      "status": "merged",
+      "created_at": "2025-10-14T22:13:53+00:00",
+      "updated_at": "2025-10-14T22:14:35+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/pull/7"
+    },
+    {
+      "repository": "HKUDS/DeepCode",
+      "repo_url": "https://github.com/HKUDS/DeepCode",
+      "number": 49,
+      "title": "Update .gitignore: Add logs/, deepcode_lab/papers/, and mcp_agent.sec…",
+      "state": "open",
+      "status": "open",
+      "created_at": "2025-10-14T18:38:36+00:00",
+      "updated_at": "2025-10-14T18:38:36+00:00",
+      "url": "https://github.com/HKUDS/DeepCode/pull/49"
+    },
+    {
+      "repository": "DonCharlesLambert/shippuden-stories",
+      "repo_url": "https://github.com/DonCharlesLambert/shippuden-stories",
+      "number": 10,
+      "title": "Add playable story for Daily Challenge (Oct 14, 2025) using Shippuden Stories API",
+      "state": "closed",
+      "status": "closed",
+      "created_at": "2025-10-14T17:56:14+00:00",
+      "updated_at": "2025-10-14T18:28:53+00:00",
+      "url": "https://github.com/DonCharlesLambert/shippuden-stories/pull/10"
+    },
+    {
+      "repository": "DonCharlesLambert/shippuden-stories",
+      "repo_url": "https://github.com/DonCharlesLambert/shippuden-stories",
+      "number": 9,
+      "title": "Add story for Daily Challenge (Oct 14, 2025)",
+      "state": "closed",
+      "status": "closed",
+      "created_at": "2025-10-14T00:00:17+00:00",
+      "updated_at": "2025-10-14T17:52:30+00:00",
+      "url": "https://github.com/DonCharlesLambert/shippuden-stories/pull/9"
+    }
+  ],
+  "issues": [
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "number": 1,
+      "title": "Voice-GenAI-Tool",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-14T20:56:24+00:00",
+      "updated_at": "2025-10-15T19:46:30+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/1"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "number": 2,
+      "title": "Backend integration",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-14T21:24:44+00:00",
+      "updated_at": "2025-10-15T19:45:36+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/2"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "number": 4,
+      "title": "Deployment",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-14T21:26:09+00:00",
+      "updated_at": "2025-10-15T19:40:45+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/4"
+    },
+    {
+      "repository": "VinodHatti7019/Voice-GenAI-Tool",
+      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "number": 3,
+      "title": "Frontend UI",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-14T21:25:20+00:00",
+      "updated_at": "2025-10-15T19:36:59+00:00",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/3"
+    },
+    {
+      "repository": "VinodHatti7019/Codev",
+      "repo_url": "https://github.com/VinodHatti7019/Codev",
+      "number": 5,
+      "title": "Codev - AI-powered development tool",
+      "state": "open",
+      "comments": 1,
+      "created_at": "2025-10-14T19:57:55+00:00",
+      "updated_at": "2025-10-15T15:39:00+00:00",
+      "url": "https://github.com/VinodHatti7019/Codev/issues/5"
+    },
+    {
+      "repository": "ishandutta2007/Top-AI-repos",
+      "repo_url": "https://github.com/ishandutta2007/Top-AI-repos",
+      "number": 1,
+      "title": "Thank You for Following & Invitation to Join IKnowAI! ✨ I’d love your feedback on IKnowAI’s roadmap or areas I can improve. Would you mind taking a look?",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-15T00:58:24+00:00",
+      "updated_at": "2025-10-15T01:14:22+00:00",
+      "url": "https://github.com/ishandutta2007/Top-AI-repos/issues/1"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 6,
+      "title": "Documentation update for new features",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T21:23:11+00:00",
+      "updated_at": "2025-10-14T21:23:11+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/6"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 5,
+      "title": "Remove emoji, add professional icons",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T21:22:20+00:00",
+      "updated_at": "2025-10-14T21:22:20+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/5"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 4,
+      "title": "API connection to backend",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T21:21:31+00:00",
+      "updated_at": "2025-10-14T21:21:31+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/4"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 3,
+      "title": "Integrate task chat interface",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T21:19:50+00:00",
+      "updated_at": "2025-10-14T21:19:50+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/3"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 2,
+      "title": "Next.js modern web UI setup (sidebar, dark theme)",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T21:13:13+00:00",
+      "updated_at": "2025-10-14T21:13:13+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/2"
+    },
+    {
+      "repository": "VinodHatti7019/About-Me",
+      "repo_url": "https://github.com/VinodHatti7019/About-Me",
+      "number": 1,
+      "title": "About-Me",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-14T20:52:45+00:00",
+      "updated_at": "2025-10-14T20:53:25+00:00",
+      "url": "https://github.com/VinodHatti7019/About-Me/issues/1"
+    },
+    {
+      "repository": "VinodHatti7019/vinod-journey-2025",
+      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "number": 2,
+      "title": "vinod-journey-2025 - Personal AI/ML learning journey",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T20:08:05+00:00",
+      "updated_at": "2025-10-14T20:08:05+00:00",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/issues/2"
+    },
+    {
+      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "number": 2,
+      "title": "GenAI-Engineer-Journey-8Months-Zero-to-Hero - Comprehensive learning path",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T20:06:06+00:00",
+      "updated_at": "2025-10-14T20:06:06+00:00",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/issues/2"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Interview-Assistant",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "number": 1,
+      "title": "AI-Interview-Assistant - AI assistant for interview preparation",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T20:03:55+00:00",
+      "updated_at": "2025-10-14T20:03:55+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/issues/1"
+    },
+    {
+      "repository": "VinodHatti7019/AI-Resume-Reviewer",
+      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "number": 1,
+      "title": "AI-Resume-Reviewer - AI-based resume analysis system",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T20:01:57+00:00",
+      "updated_at": "2025-10-14T20:01:57+00:00",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/issues/1"
+    },
+    {
+      "repository": "VinodHatti7019/GenDev",
+      "repo_url": "https://github.com/VinodHatti7019/GenDev",
+      "number": 1,
+      "title": "GenDev - Generative development platform",
+      "state": "open",
+      "comments": 0,
+      "created_at": "2025-10-14T19:59:59+00:00",
+      "updated_at": "2025-10-14T19:59:59+00:00",
+      "url": "https://github.com/VinodHatti7019/GenDev/issues/1"
+    }
+  ],
+  "forks": [],
+  "repositories": [
+    {
+      "name": "About-Me",
+      "full_name": "VinodHatti7019/About-Me",
+      "url": "https://github.com/VinodHatti7019/About-Me",
+      "description": "Config files for my GitHub profile.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Unknown",
+      "created_at": "2025-02-25T17:56:23+00:00",
+      "updated_at": "2025-10-13T23:43:15+00:00"
+    },
+    {
+      "name": "AI-Interview-Assistant",
+      "full_name": "VinodHatti7019/AI-Interview-Assistant",
+      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
+      "description": "Real-time AI interview coach and analyzer with question generation, scoring, and feedback. Built with Python, speech recognition, and OpenAI.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-12T18:13:13+00:00",
+      "updated_at": "2025-10-14T20:25:46+00:00"
+    },
+    {
+      "name": "AI-Resume-Reviewer",
+      "full_name": "VinodHatti7019/AI-Resume-Reviewer",
+      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
+      "description": "Production-ready AI application for automated resume analysis, ATS scoring, and recruitment optimization. Built with Python, OpenAI API, and Streamlit.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-12T17:59:52+00:00",
+      "updated_at": "2025-10-14T17:40:01+00:00"
+    },
+    {
+      "name": "antenna",
+      "full_name": "VinodHatti7019/antenna",
+      "url": "https://github.com/VinodHatti7019/antenna",
+      "description": "An online toolset to manage and analyze data collected from insect camera traps for research and conservation efforts.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true,
+      "language": "Unknown",
+      "created_at": "2025-10-13T23:23:17+00:00",
+      "updated_at": "2025-10-13T23:23:17+00:00"
+    },
+    {
+      "name": "ChatPDF-QA-Agent",
+      "full_name": "VinodHatti7019/ChatPDF-QA-Agent",
+      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
+      "description": "Enterprise-grade document intelligence system with AI-powered Q&A capabilities. Built with Python, LangChain, Pinecone, and OpenAI embeddings for production environments.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-12T18:02:48+00:00",
+      "updated_at": "2025-10-14T21:48:25+00:00"
+    },
+    {
+      "name": "Codev",
+      "full_name": "VinodHatti7019/Codev",
+      "url": "https://github.com/VinodHatti7019/Codev",
+      "description": "The Vinod-powered AI Agent Automation playground - Your signature AI agent builder",
+      "stars": 1,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-14T00:13:27+00:00",
+      "updated_at": "2025-10-15T18:11:39+00:00"
+    },
+    {
+      "name": "cursor",
+      "full_name": "VinodHatti7019/cursor",
+      "url": "https://github.com/VinodHatti7019/cursor",
+      "description": "The AI Code Editor",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true,
+      "language": "Unknown",
+      "created_at": "2025-10-16T04:57:17+00:00",
+      "updated_at": "2025-10-16T04:57:17+00:00"
+    },
+    {
+      "name": "DeepCode",
+      "full_name": "VinodHatti7019/DeepCode",
+      "url": "https://github.com/VinodHatti7019/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true,
+      "language": "Unknown",
+      "created_at": "2025-10-14T18:36:35+00:00",
+      "updated_at": "2025-10-14T18:36:35+00:00"
+    },
+    {
+      "name": "GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "full_name": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+      "description": "Complete 8-month Gen AI Engineer learning journey - from zero to hero. Daily logs, projects, certifications, and startup product showcase. Open to work!",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Unknown",
+      "created_at": "2025-10-12T14:59:51+00:00",
+      "updated_at": "2025-10-12T17:24:18+00:00"
+    },
+    {
+      "name": "GenDev",
+      "full_name": "VinodHatti7019/GenDev",
+      "url": "https://github.com/VinodHatti7019/GenDev",
+      "description": "Custom Copilot extension for DSA/LeetCode problems—auto-generates concise one-liner solutions and workspace automation",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-14T00:23:46+00:00",
+      "updated_at": "2025-10-14T00:50:35+00:00"
+    },
+    {
+      "name": "IknowAI",
+      "full_name": "VinodHatti7019/IknowAI",
+      "url": "https://github.com/VinodHatti7019/IknowAI",
+      "description": "AI-automation knowledge base and tools repository. Community-driven open-source project with #IknowAI and Reset to 0 Mindset branding.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-14T23:10:07+00:00",
+      "updated_at": "2025-10-15T00:19:02+00:00"
+    },
+    {
+      "name": "n8n",
+      "full_name": "VinodHatti7019/n8n",
+      "url": "https://github.com/VinodHatti7019/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true,
+      "language": "Unknown",
+      "created_at": "2025-10-16T04:34:29+00:00",
+      "updated_at": "2025-10-16T04:34:29+00:00"
+    },
+    {
+      "name": "open-source-contributions-portfolio",
+      "full_name": "VinodHatti7019/open-source-contributions-portfolio",
+      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-16T06:08:43+00:00",
+      "updated_at": "2025-10-16T06:19:45+00:00"
+    },
+    {
+      "name": "relator",
+      "full_name": "VinodHatti7019/relator",
+      "url": "https://github.com/VinodHatti7019/relator",
+      "description": "A GitHub Action that sends beautifully formatted Telegram notifications when new issues are created in your repository. Get instant alerts with issue details, labels as hashtags, and clean formatting.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": true,
+      "language": "Unknown",
+      "created_at": "2025-10-13T23:24:32+00:00",
+      "updated_at": "2025-10-13T23:24:32+00:00"
+    },
+    {
+      "name": "vinod-journey-2025",
+      "full_name": "VinodHatti7019/vinod-journey-2025",
+      "url": "https://github.com/VinodHatti7019/vinod-journey-2025",
+      "description": "Complete journey documentation of my post-BE ISE learning path, projects, certifications, and career transition. 30-day structured learning roadmap with Python expertise, full-stack development, and startup project (Tryliate). #ReadyToWork #OpenToWork",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Unknown",
+      "created_at": "2025-10-11T19:23:14+00:00",
+      "updated_at": "2025-10-15T15:33:08+00:00"
+    },
+    {
+      "name": "Voice-GenAI-Tool",
+      "full_name": "VinodHatti7019/Voice-GenAI-Tool",
+      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
+      "description": "Advanced voice AI platform: cloning, transcription, multilingual TTS, real-time streaming. Python, Whisper, ElevenLabs, FastAPI, WebSocket.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Python",
+      "created_at": "2025-10-12T18:16:25+00:00",
+      "updated_at": "2025-10-16T01:35:57+00:00"
+    }
+  ],
+  "statistics": {
+    "total_commits": 170,
+    "total_prs": 6,
+    "total_issues": 17,
+    "total_repositories": 16,
+    "merged_prs": 3,
+    "open_prs": 1,
+    "closed_issues": 5,
+    "open_issues": 12,
+    "forked_repos": 5,
+    "own_repos": 11
+  }
+}
