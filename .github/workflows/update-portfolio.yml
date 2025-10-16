@@ -1,5 +1,4 @@
 name: Update Open Source Contributions Portfolio
-
 # This workflow automatically updates the portfolio with latest contribution data
 # Runs daily at midnight UTC and can be triggered manually
 
@@ -37,6 +36,7 @@ jobs:
         with:
           python-version: '3.11'
           cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
       
       - name: Install dependencies
         run: |
@@ -45,7 +45,7 @@ jobs:
             pip install -r scripts/requirements.txt
           else
             echo "requirements.txt not found, installing common dependencies"
-            pip install requests PyGithub python-dateutil tabulate
+            pip install requests PyGithub python-dotenv
           fi
       
       - name: Fetch contribution data
