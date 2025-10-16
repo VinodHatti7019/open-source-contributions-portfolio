@@ -1,15 +1,51 @@
-# 🚀 Open Source Contributions Portfolio
+<!-- Badges Section -->
+<div align="center">
 
-## 🌟 About This Portfolio
+<!-- Main Portfolio Badges -->
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinodHatti7019)
+[![Portfolio Auto-Update](https://img.shields.io/badge/Portfolio-Auto--Update-blue?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/VinodHatti7019/open-source-contributions-portfolio/actions)
+[![Most Active](https://img.shields.io/badge/Most%20Active-2025-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/VinodHatti7019)
+[![Contributions](https://img.shields.io/badge/Contributions-222%2B-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinodHatti7019)
 
-This repository showcases my open source contributions, including forks, pull requests, issues, and detailed contribution statistics across various projects.
+<!-- Languages & Tools -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+<!-- Repository Stats -->
+![Profile Views](https://komarev.com/ghpvc/?username=VinodHatti7019&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/VinodHatti7019?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/VinodHatti7019?style=flat-square&logo=github)
 
 ---
 
+<!-- n8n Fork Status Badges -->
+### 🤖 n8n Fork Status
+[![Fork Status](https://img.shields.io/badge/Fork-n8n-E535AB?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/VinodHatti7019/n8n)
+[![Commits Ahead](https://img.shields.io/badge/Commits%20Ahead-2-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/VinodHatti7019/n8n/compare/n8n-io:main...VinodHatti7019:fix/ai-agent-task-runner-tool-recognition)
+[![Last Commit](https://img.shields.io/github/last-commit/VinodHatti7019/n8n/fix/ai-agent-task-runner-tool-recognition?style=for-the-badge&logo=github)](https://github.com/VinodHatti7019/n8n)
+[![Issues Fixed](https://img.shields.io/badge/Issues%20Fixed-AI%20Agent%20Task%20Runner-blue?style=for-the-badge&logo=checkmarx)](https://github.com/VinodHatti7019/n8n)
+
+<!-- Cursor Fork Status Badges -->
+### 💻 Cursor Fork Status
+[![Fork Status](https://img.shields.io/badge/Fork-Cursor-00A3FF?style=for-the-badge&logo=cursor&logoColor=white)](https://github.com/VinodHatti7019/Cursor)
+[![Branch](https://img.shields.io/badge/Branch-fix%2Fmcp--routing-orange?style=for-the-badge&logo=git-branch&logoColor=white)](https://github.com/VinodHatti7019/Cursor)
+[![Active Development](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/VinodHatti7019/Cursor)
+[![MCP Routing](https://img.shields.io/badge/Fix-MCP%20Routing-yellow?style=for-the-badge&logo=protocol&logoColor=white)](https://github.com/VinodHatti7019/Cursor)
+
+</div>
+
+---
+
+# 🚀 Open Source Contributions Portfolio
+## 🌟 About This Portfolio
+This repository showcases my open source contributions, including forks, pull requests, issues, and detailed contribution statistics across various projects.
+---
 ## 📊 Contribution Statistics
-
 ### Total Contributions (Last 4 Days: Oct 12-16, 2025)
-
 | Date | Contributions | Repositories | Highlights |
 |------|---------------|--------------|------------|
 | Oct 16, 2025 | `40 contributions` | `6 repos` | Fixed AI Agent task runner in n8n, MCP routing in Cursor |
@@ -18,214 +54,13 @@ This repository showcases my open source contributions, including forks, pull re
 | Oct 13, 2025 | `1 contribution` | `1 repo` | Repository updates |
 | Oct 12, 2025 | `46 contributions` | `7 repos` | Multiple commits across projects |
 | **Total** | **222 contributions** | **11 repos** | **172 commits in October** |
-
 ---
-
-## 🔀 Forked Repositories
-
-<!-- AUTO-GENERATED-FORKS:START -->
-
-### 🤖 n8n - Workflow Automation
-
+## 🔀 Forked Repositories<!-- AUTO-GENERATED-FORKS:START -->### 🤖 n8n - Workflow Automation
 | Original Repository | Fork Date | Commits Ahead | Last Contribution | Link |
 |--------------------|-----------|---------------|-------------------|------|
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | `Oct 2025` | `2 commits` | `Oct 16, 2025` | [🔗 View Fork](https://github.com/VinodHatti7019/n8n) |
-
 **Branch:** `fix/ai-agent-task-runner-tool-recognition`
-
 **Recent Commits:**
 - [`213959c`](https://github.com/VinodHatti7019/n8n/commit/213959c) - Fix AI Agent task runner: add tool node recognition and error handling for $node[] in code nodes (Oct 16, 10:18 AM)
 - [`97cd2db`](https://github.com/VinodHatti7019/n8n/commit/97cd2db) - Fix AI Agent task runner: add tool node recognition and error handling for $node[] in code nodes (Oct 16, 10:16 AM)
-
 **Description:** Fixed critical AI Agent task runner issues by implementing tool node recognition and proper error handling for $node[] references in code nodes.
-
----
-
-### 🖱️ Cursor - AI-First Code Editor
-
-| Original Repository | Fork Date | Commits Ahead | Last Contribution | Link |
-|--------------------|-----------|---------------|-------------------|------|
-| [getcursor/cursor](https://github.com/getcursor/cursor) | `Oct 2025` | `4 commits` | `Oct 16, 2025` | [🔗 View Fork](https://github.com/VinodHatti7019/cursor) |
-
-**Branch:** `fix/mcp-multi-instance-routing-3689`
-
-**Recent Commits:**
-- [`837f6dd`](https://github.com/VinodHatti7019/cursor/commit/837f6dd) - Add comprehensive documentation for issue #3689 fix (Oct 16, 10:39 AM)
-- [`04cf9ec`](https://github.com/VinodHatti7019/cursor/commit/04cf9ec) - Add workflow integration for agent/database execution (Oct 16, 10:38 AM)
-- [`da74cbe`](https://github.com/VinodHatti7019/cursor/commit/da74cbe) - Add comprehensive tests for MCP multi-instance routing (Oct 16, 10:32 AM)
-- [`d8161dc`](https://github.com/VinodHatti7019/cursor/commit/d8161dc) - Add MCPInstanceRouter core implementation for issue #3689 (Oct 16, 10:31 AM)
-
-**Description:** Implemented MCP (Model Context Protocol) multi-instance routing solution to resolve [issue #3689](https://github.com/getcursor/cursor/issues/3689), including core router implementation, comprehensive tests, workflow integration, and documentation.
-
----
-
-### Contribution Breakdown by Repository
-
-| Repository | Commits | PRs | Issues | Last Activity |
-|-----------|---------|-----|--------|---------------|
-| `Codev` | `Multiple` | `5+` | `2` | `Oct 15, 2025` |
-| `cursor` | `4` | `0` | `1 (working)` | `Oct 16, 2025` |
-| `n8n` | `2` | `0` | `1 (working)` | `Oct 16, 2025` |
-| `shippuden-stories` | `Multiple` | `1` | `0` | `Oct 14, 2025` |
-| `DeepCode` | `Multiple` | `0` | `0` | `Oct 15, 2025` |
-| `FreeDomain` | `Multiple` | `0` | `0` | `Oct 15, 2025` |
-| `IknowAI` | `Multiple` | `0` | `0` | `Oct 15, 2025` |
-
-<!-- AUTO-GENERATED-FORKS:END -->
-
----
-
-## 🧠 Major GenAI Problem Solutions
-
-### Recent GenAI Issues Solved (Oct 12-16, 2025)
-
-#### 1. 🤖 n8n AI Agent Task Runner - Tool Node Recognition Fix
-
-**Problem:** AI Agent task runner in n8n was failing to recognize tool nodes and throwing errors when using `$node[]` references in code nodes.
-
-**Solution:**
-- Implemented tool node recognition mechanism in the AI Agent task runner
-- Added proper error handling for `$node[]` references in code execution
-- Enhanced workflow processing to correctly identify and utilize tool nodes
-- Fixed edge cases in node reference resolution
-
-**Repository:** [VinodHatti7019/n8n](https://github.com/VinodHatti7019/n8n)
-**Branch:** `fix/ai-agent-task-runner-tool-recognition`
-**Date:** Oct 16, 2025
-**Commits:** 2
-
-**Impact:** Enables AI Agents to properly recognize and use tool nodes, improving workflow automation reliability and developer experience.
-
----
-
-#### 2. 🔀 Cursor MCP Multi-Instance Routing (Issue #3689)
-
-**Problem:** Cursor editor lacked proper routing mechanism for Model Context Protocol (MCP) when handling multiple instances, causing conflicts and unpredictable behavior.
-
-**Solution:**
-- Designed and implemented `MCPInstanceRouter` core module
-- Created comprehensive test suite covering multiple routing scenarios
-- Integrated routing logic with agent and database execution workflows
-- Added detailed documentation for maintainability and future enhancements
-
-**Repository:** [VinodHatti7019/cursor](https://github.com/VinodHatti7019/cursor)
-**Branch:** `fix/mcp-multi-instance-routing-3689`
-**Issue:** [#3689](https://github.com/getcursor/cursor/issues/3689)
-**Date:** Oct 16, 2025
-**Commits:** 4
-
-**Impact:** Resolves instance collision issues, enables proper MCP routing for concurrent operations, and improves overall stability of AI-powered code editing.
-
----
-
-#### 3. 💻 Codev Platform Enhancements
-
-**Problem:** Multiple issues related to developer experience, UI/UX improvements, and feature additions in the Codev platform.
-
-**Solution:**
-- Submitted 5+ pull requests addressing various platform improvements
-- Resolved 2 critical issues affecting user workflows
-- Contributed to discussions and code reviews
-- Enhanced platform functionality and user experience
-
-**Repository:** [Codev](https://github.com/VinodHatti7019/Codev)
-**Date:** Oct 15, 2025
-**Contributions:** Multiple PRs and issues
-
-**Impact:** Improved developer experience and platform reliability for the entire Codev community.
-
----
-
-## 📈 Contribution Analytics
-
-<!-- AUTO-GENERATED-ANALYTICS:START -->
-
-### Language Distribution
-
-```
-Python          ██████████████░░░░░░  72.7%
-Unknown         █████░░░░░░░░░░░░░░░  27.3%
-```
-
-### Activity Timeline (October 2025)
-
-```
-Week 1 (Oct 1-7):    ████░░░░░░░░░░░░░░░░  20 contributions
-Week 2 (Oct 8-14):   ████████████░░░░░░░░  92 contributions
-Week 3 (Oct 15-16):  ██████████████████░░  130 contributions
-```
-
-### Contribution Types
-
-- **Commits:** 172+ in October 2025
-- **Pull Requests:** 6+ submitted
-- **Issues:** 3+ worked on
-- **Repositories:** 11+ active projects
-- **Forks:** 2 major OSS projects (n8n, Cursor)
-
-<!-- AUTO-GENERATED-ANALYTICS:END -->
-
----
-
-## 🤖 Auto-Update Mechanism
-
-This portfolio uses **GitHub Actions** to automatically fetch and update contribution data:
-
-### Workflow Details
-
-- **Frequency**: Runs daily at 00:00 UTC
-- **Trigger**: Scheduled via cron job + manual dispatch
-- **Process**:
-  1. Fetches user contribution data via GitHub API
-  2. Parses commits, PRs, issues, forks
-  3. Generates formatted markdown tables
-  4. Updates README.md sections
-  5. Commits changes automatically
-
-### Workflow Files
-
-```
-.github/
-└── workflows/
-    └── update-portfolio.yml    # Main update workflow
-
-scripts/
-├── fetch_contributions.py      # API data fetching
-├── generate_stats.py           # Statistics calculation
-├── update_readme.py            # README generation
-└── requirements.txt            # Python dependencies
-```
-
-### Manual Update
-
-You can manually trigger an update from the [Actions tab](../../actions).
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-VinodHatti7019-181717?style=for-the-badge&logo=github)](https://github.com/VinodHatti7019)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-brightgreen?style=for-the-badge&logo=github-pages)](https://vinodhatti7019.github.io)
-
-</div>
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you find it useful!**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/VinodHatti7019/open-source-contributions-portfolio?style=social)
-![GitHub followers](https://img.shields.io/github/followers/VinodHatti7019?style=social)
-
-*Last auto-update: `2025-10-16 12:15:00 UTC` via GitHub Actions*
-
-</div>
