@@ -1,15 +1,15 @@
 {
-  "generated_at": "2025-10-21T01:05:47.668061",
+  "generated_at": "2025-10-22T01:06:53.381701",
   "overall": {
     "total_commits": 177,
     "total_prs": 6,
     "total_issues": 17,
-    "total_repositories": 18,
+    "total_repositories": 20,
     "merged_prs": 3,
     "open_prs": 1,
     "closed_issues": 5,
     "open_issues": 12,
-    "forked_repos": 6,
+    "forked_repos": 8,
     "own_repos": 12,
     "pr_merge_rate": 50.0,
     "issue_closure_rate": 29.4
