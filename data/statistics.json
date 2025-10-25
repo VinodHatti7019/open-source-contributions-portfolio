@@ -1,23 +1,23 @@
 {
-  "generated_at": "2025-10-24T01:01:21.371250",
+  "generated_at": "2025-10-25T01:03:14.174642",
   "overall": {
-    "total_commits": 177,
-    "total_prs": 6,
+    "total_commits": 178,
+    "total_prs": 7,
     "total_issues": 17,
-    "total_repositories": 21,
+    "total_repositories": 23,
     "merged_prs": 3,
-    "open_prs": 1,
+    "open_prs": 2,
     "closed_issues": 5,
     "open_issues": 12,
-    "forked_repos": 9,
+    "forked_repos": 11,
     "own_repos": 12,
-    "pr_merge_rate": 50.0,
+    "pr_merge_rate": 42.9,
     "issue_closure_rate": 29.4
   },
   "streaks": {
-    "current_streak": 0,
+    "current_streak": 1,
     "longest_streak": 6,
-    "last_contribution": "2025-10-18"
+    "last_contribution": "2025-10-24"
   },
   "languages": {
     "Python": {
@@ -153,6 +153,24 @@
         "activity_score": 2
       },
       {
+        "repository": "VinodHatti7019/minimind",
+        "commits": 1,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
+        "repository": "jingyaogong/minimind",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
         "repository": "HKUDS/DeepCode",
         "commits": 0,
         "prs": 1,
@@ -176,8 +194,8 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 177,
-        "prs": 6,
+        "commits": 178,
+        "prs": 7,
         "issues": 17
       }
     ]
