@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-11-01T01:09:56.448414",
+  "generated_at": "2025-11-02T01:10:39.518632",
   "overall": {
     "total_commits": 178,
-    "total_prs": 7,
+    "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
     "merged_prs": 3,
-    "open_prs": 2,
+    "open_prs": 3,
     "closed_issues": 5,
     "open_issues": 12,
     "forked_repos": 12,
     "own_repos": 12,
-    "pr_merge_rate": 42.9,
+    "pr_merge_rate": 37.5,
     "issue_closure_rate": 29.4
   },
   "streaks": {
@@ -162,6 +162,15 @@
         "activity_score": 1
       },
       {
+        "repository": "chroma-core/chroma",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
         "repository": "jingyaogong/minimind",
         "commits": 0,
         "prs": 1,
@@ -197,6 +206,12 @@
         "commits": 178,
         "prs": 7,
         "issues": 17
+      },
+      {
+        "month": "2025-11",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0
       }
     ]
   }
