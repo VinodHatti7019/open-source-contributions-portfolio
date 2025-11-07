@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2025-11-06T01:06:40.650217",
+    "last_updated": "2025-11-07T01:05:56.300829",
     "username": "VinodHatti7019"
   },
   "commits": [
@@ -1438,7 +1438,7 @@
       "state": "open",
       "status": "open",
       "created_at": "2025-11-01T01:11:56+00:00",
-      "updated_at": "2025-11-01T01:12:15+00:00",
+      "updated_at": "2025-11-06T22:45:12+00:00",
       "url": "https://github.com/chroma-core/chroma/pull/5783"
     },
     {
@@ -1936,7 +1936,7 @@
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2025-11-05T01:08:23+00:00"
+      "updated_at": "2025-11-06T01:07:27+00:00"
     },
     {
       "name": "parlant",
