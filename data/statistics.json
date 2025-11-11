@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-10T01:10:21.572002",
+  "generated_at": "2025-11-11T01:08:16.488807",
   "overall": {
-    "total_commits": 178,
+    "total_commits": 174,
     "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
@@ -16,7 +16,7 @@
   },
   "streaks": {
     "current_streak": 0,
-    "longest_streak": 6,
+    "longest_streak": 5,
     "last_contribution": "2025-10-24"
   },
   "languages": {
@@ -126,19 +126,19 @@
         "activity_score": 9
       },
       {
-        "repository": "VinodHatti7019/vinod-journey-2025",
-        "commits": 6,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 7
-      },
-      {
         "repository": "VinodHatti7019/ai-agent-workflow-platform",
         "commits": 3,
         "prs": 0,
         "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 3
+      },
+      {
+        "repository": "VinodHatti7019/vinod-journey-2025",
+        "commits": 2,
+        "prs": 0,
+        "issues": 1,
         "stars": 0,
         "forks": 0,
         "activity_score": 3
@@ -203,7 +203,7 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 178,
+        "commits": 174,
         "prs": 7,
         "issues": 17
       },
