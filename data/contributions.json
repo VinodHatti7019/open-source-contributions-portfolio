@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2025-11-11T01:07:35.392072",
+    "last_updated": "2025-11-12T01:06:54.323242",
     "username": "VinodHatti7019"
   },
   "commits": [
@@ -1107,294 +1107,6 @@
       "message": "Update README: Add 4 domain paths, ATS-ready tech stack, 5 SaaS projects, BE ISE grad profile",
       "date": "2025-10-13T03:11:57+00:00",
       "url": "https://github.com/VinodHatti7019/About-Me/commit/c7373680b1002c9afc33ecf61546b85acc0ba591"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "sha": "14f1303",
-      "message": "Add professional README for Voice GenAI Tool",
-      "date": "2025-10-12T18:17:46+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/14f1303eb2ea645979b244bb7542ad08f131560e"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "sha": "009fef0",
-      "message": "Initial commit",
-      "date": "2025-10-12T18:16:25+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/commit/009fef0effa6d87ecd535dc358ed2bd7ee02f72c"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Interview-Assistant",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
-      "sha": "a848821",
-      "message": "Add professional README for AI Interview Assistant",
-      "date": "2025-10-12T18:14:58+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/a84882153c1ab2d190aa14220bdb5d3c1fffb339"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Interview-Assistant",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
-      "sha": "5a9d7e7",
-      "message": "Initial commit",
-      "date": "2025-10-12T18:13:14+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/commit/5a9d7e72dc249b943c03c4fe2bba4950a489e356"
-    },
-    {
-      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
-      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
-      "sha": "0a3f1d9",
-      "message": "Add comprehensive professional README for ChatPDF Q&A Agent",
-      "date": "2025-10-12T18:12:11+00:00",
-      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/0a3f1d9a1f28296c43ac2ba92ef6e9f5feedb11c"
-    },
-    {
-      "repository": "VinodHatti7019/ChatPDF-QA-Agent",
-      "repo_url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
-      "sha": "3e9d8ff",
-      "message": "Initial commit",
-      "date": "2025-10-12T18:02:48+00:00",
-      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent/commit/3e9d8ff52243fe1edceacfd645bee79c9b152562"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Resume-Reviewer",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
-      "sha": "9757753",
-      "message": "Create comprehensive professional README for AI Resume Reviewer",
-      "date": "2025-10-12T18:01:49+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/9757753f9a7ce8e717a1c972ee1413cb023b0721"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Resume-Reviewer",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
-      "sha": "060ba90",
-      "message": "Initial commit",
-      "date": "2025-10-12T17:59:52+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/commit/060ba906aaae13554fa970288a75c033173d886c"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "sha": "a08e8c9",
-      "message": "Update README with professional GenAI Engineer profile",
-      "date": "2025-10-12T17:58:48+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/commit/a08e8c94e8adf3402cff0ea4fe9336fdaf757528"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "9ddc327",
-      "message": "Add Day 14 summary and mini-project template",
-      "date": "2025-10-12T17:24:14+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/9ddc32700de8ae071db3c8207004d24417fb8b6a"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "24a0960",
-      "message": "Create Day 13 markdown file for October 2025",
-      "date": "2025-10-12T17:19:45+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/24a0960076375ccd15cf8731fe78255dfd48e16e"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "6b092b6",
-      "message": "Add Day 12 entry for October 2025",
-      "date": "2025-10-12T17:15:51+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/6b092b63e0f91d8291589ca0cafc986ad0cac7bb"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "291a4c4",
-      "message": "Create Day 11 markdown file with structure",
-      "date": "2025-10-12T17:12:57+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/291a4c4424d4aaeca6b8f85a0f117932ed807974"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "67c4ee3",
-      "message": "Create Day 10 markdown file for October 2025",
-      "date": "2025-10-12T17:06:26+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/67c4ee3271e8700a88e15e00b87f2cf117916489"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "53fe4cb",
-      "message": "Add day 09 markdown file for October 2025",
-      "date": "2025-10-12T17:04:02+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/53fe4cb7b32eb21479dafe431b439a5e005779c0"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "5307d07",
-      "message": "Add Day 08 notes for October 2025",
-      "date": "2025-10-12T17:01:46+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/5307d071f036dcea1cbfd16dca8d1835a5ce528d"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "17c7d47",
-      "message": "Add Day 07 summary and mini-project template",
-      "date": "2025-10-12T17:00:17+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/17c7d470c0f3e1945d11031ab372ffcadd470eb5"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "2e24c37",
-      "message": "Add Day 06 markdown file for October 2025",
-      "date": "2025-10-12T16:59:05+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/2e24c371a5f928b92f9a9bbd24977ca6c635e8d6"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "e1e8705",
-      "message": "Add Day 05 notes for October 2025",
-      "date": "2025-10-12T16:57:47+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/e1e87058eeefdd6faf71db72d3e154530da013f2"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "905b420",
-      "message": "Add Day 04 notes for October 2025",
-      "date": "2025-10-12T16:56:32+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/905b420869a93c6364663601b5d0bebf10c3f9e3"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "956d99d",
-      "message": "Add Day 03 notes for October 2025",
-      "date": "2025-10-12T16:55:35+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/956d99d955af51ac639304d9771df68000bd7bbb"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "fc89d8c",
-      "message": "Create Day 02 markdown file for October 2025",
-      "date": "2025-10-12T16:54:28+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/fc89d8cdc41d39a9ac074bd19a57b48e17bd2e17"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "2986206",
-      "message": "Create day-01.md",
-      "date": "2025-10-12T16:53:33+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/29862065af9c32a6cb6c7182a61e893b31a7a9e1"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "d861ae8",
-      "message": "Add foundation-week README",
-      "date": "2025-10-12T15:38:59+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/d861ae8a293a540fc50b87c66e37e9be38d1aec2"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "b38592d",
-      "message": "Add month-08-october-2025 README - Final month!",
-      "date": "2025-10-12T15:33:07+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/b38592d4c627f61543a142ed2c029a2207edba04"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "f89e109",
-      "message": "Add month-07-september-2025 README",
-      "date": "2025-10-12T15:30:08+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/f89e109942626dfc36e2d8742fba77c31a34e2a3"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "29ba2c3",
-      "message": "Add month-06-august-2025 README",
-      "date": "2025-10-12T15:27:26+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/29ba2c31480eae7cf5d2ae05757a097df94bfc7e"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "0efb2f6",
-      "message": "Add month-05-july-2025 README",
-      "date": "2025-10-12T15:24:44+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/0efb2f613e4d9f1a488124b242ad94019728789d"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "0bc7c19",
-      "message": "Add month-04-june-2025 README",
-      "date": "2025-10-12T15:22:19+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/0bc7c1968381f6a3815adaa3fca9020d4d7de04d"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "b9ee4d7",
-      "message": "Add month-03-may-2025 README",
-      "date": "2025-10-12T15:20:23+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/b9ee4d7ce71b788e742dc814e4b66000a80a77b7"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "5971c48",
-      "message": "Add month-02-april-2025 README",
-      "date": "2025-10-12T15:18:35+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/5971c48ca192a60d89e3690d888914fab9ac2cfd"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "80383fc",
-      "message": "Add month-01-march-2025 README",
-      "date": "2025-10-12T15:16:35+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/80383fc2e34562b5a29f272837ad88d5e4bea72e"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "f5b0960",
-      "message": "Add professional README with 8-month GenAI roadmap, projects, and recruiter info",
-      "date": "2025-10-12T15:10:49+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/f5b096055fb20e5b558d34be3ce61975ff8dc76e"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "sha": "1395a69",
-      "message": "Initial commit",
-      "date": "2025-10-12T14:59:52+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/commit/1395a690299da22511b7f4f7ce65e5cf7a1a5b69"
-    },
-    {
-      "repository": "VinodHatti7019/vinod-journey-2025",
-      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
-      "sha": "178f9a0",
-      "message": "Refactor README for clarity and detail",
-      "date": "2025-10-12T12:55:54+00:00",
-      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/178f9a0cfaf5e8f5ef92ac917a8f32c26e550218"
-    },
-    {
-      "repository": "VinodHatti7019/vinod-journey-2025",
-      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
-      "sha": "5a9f644",
-      "message": "Add badges and quick access links to Introduction section",
-      "date": "2025-10-12T12:44:48+00:00",
-      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/commit/5a9f64457032019bd10d8066890ec7a958e89f87"
     }
   ],
   "pull_requests": [
@@ -1489,6 +1201,17 @@
   ],
   "issues": [
     {
+      "repository": "ishandutta2007/Top-AI-repos",
+      "repo_url": "https://github.com/ishandutta2007/Top-AI-repos",
+      "number": 1,
+      "title": "Thank You for Following & Invitation to Join IKnowAI! ✨ I’d love your feedback on IKnowAI’s roadmap or areas I can improve. Would you mind taking a look?",
+      "state": "closed",
+      "comments": 0,
+      "created_at": "2025-10-15T00:58:24+00:00",
+      "updated_at": "2025-11-11T13:18:47+00:00",
+      "url": "https://github.com/ishandutta2007/Top-AI-repos/issues/1"
+    },
+    {
       "repository": "VinodHatti7019/Voice-GenAI-Tool",
       "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
       "number": 1,
@@ -1542,17 +1265,6 @@
       "created_at": "2025-10-14T19:57:55+00:00",
       "updated_at": "2025-10-15T15:39:00+00:00",
       "url": "https://github.com/VinodHatti7019/Codev/issues/5"
-    },
-    {
-      "repository": "ishandutta2007/Top-AI-repos",
-      "repo_url": "https://github.com/ishandutta2007/Top-AI-repos",
-      "number": 1,
-      "title": "Thank You for Following & Invitation to Join IKnowAI! ✨ I’d love your feedback on IKnowAI’s roadmap or areas I can improve. Would you mind taking a look?",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-15T00:58:24+00:00",
-      "updated_at": "2025-10-15T01:14:22+00:00",
-      "url": "https://github.com/ishandutta2007/Top-AI-repos/issues/1"
     },
     {
       "repository": "VinodHatti7019/About-Me",
@@ -1904,7 +1616,7 @@
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2025-11-10T01:10:25+00:00"
+      "updated_at": "2025-11-11T01:08:20+00:00"
     },
     {
       "name": "parlant",
@@ -1968,14 +1680,14 @@
     }
   ],
   "statistics": {
-    "total_commits": 174,
+    "total_commits": 138,
     "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
     "merged_prs": 3,
     "open_prs": 2,
-    "closed_issues": 5,
-    "open_issues": 12,
+    "closed_issues": 6,
+    "open_issues": 11,
     "forked_repos": 12,
     "own_repos": 12
   }

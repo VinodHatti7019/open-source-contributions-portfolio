@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-11T01:08:16.488807",
+  "generated_at": "2025-11-12T01:07:27.622020",
   "overall": {
-    "total_commits": 174,
+    "total_commits": 138,
     "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
     "merged_prs": 3,
     "open_prs": 2,
-    "closed_issues": 5,
-    "open_issues": 12,
+    "closed_issues": 6,
+    "open_issues": 11,
     "forked_repos": 12,
     "own_repos": 12,
     "pr_merge_rate": 37.5,
-    "issue_closure_rate": 29.4
+    "issue_closure_rate": 35.3
   },
   "streaks": {
     "current_streak": 0,
-    "longest_streak": 5,
+    "longest_streak": 4,
     "last_contribution": "2025-10-24"
   },
   "languages": {
@@ -36,15 +36,6 @@
   "repositories": {
     "repositories": [
       {
-        "repository": "VinodHatti7019/Voice-GenAI-Tool",
-        "commits": 31,
-        "prs": 0,
-        "issues": 4,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 35
-      },
-      {
         "repository": "VinodHatti7019/Codev",
         "commits": 30,
         "prs": 3,
@@ -54,40 +45,22 @@
         "activity_score": 34
       },
       {
-        "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-        "commits": 25,
+        "repository": "VinodHatti7019/Voice-GenAI-Tool",
+        "commits": 29,
         "prs": 0,
-        "issues": 1,
+        "issues": 4,
         "stars": 0,
         "forks": 0,
-        "activity_score": 26
+        "activity_score": 33
       },
       {
         "repository": "VinodHatti7019/AI-Interview-Assistant",
-        "commits": 18,
+        "commits": 16,
         "prs": 0,
         "issues": 1,
         "stars": 0,
         "forks": 0,
-        "activity_score": 19
-      },
-      {
-        "repository": "VinodHatti7019/ChatPDF-QA-Agent",
-        "commits": 15,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 15
-      },
-      {
-        "repository": "VinodHatti7019/AI-Resume-Reviewer",
-        "commits": 13,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 14
+        "activity_score": 17
       },
       {
         "repository": "VinodHatti7019/IknowAI",
@@ -97,6 +70,24 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 13
+      },
+      {
+        "repository": "VinodHatti7019/ChatPDF-QA-Agent",
+        "commits": 13,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 13
+      },
+      {
+        "repository": "VinodHatti7019/AI-Resume-Reviewer",
+        "commits": 11,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 12
       },
       {
         "repository": "VinodHatti7019/open-source-contributions-portfolio",
@@ -118,27 +109,18 @@
       },
       {
         "repository": "VinodHatti7019/About-Me",
-        "commits": 3,
+        "commits": 2,
         "prs": 0,
         "issues": 6,
         "stars": 0,
         "forks": 0,
-        "activity_score": 9
+        "activity_score": 8
       },
       {
         "repository": "VinodHatti7019/ai-agent-workflow-platform",
         "commits": 3,
         "prs": 0,
         "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 3
-      },
-      {
-        "repository": "VinodHatti7019/vinod-journey-2025",
-        "commits": 2,
-        "prs": 0,
-        "issues": 1,
         "stars": 0,
         "forks": 0,
         "activity_score": 3
@@ -196,6 +178,24 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 1
+      },
+      {
+        "repository": "VinodHatti7019/vinod-journey-2025",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
+        "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
       }
     ]
   },
@@ -203,7 +203,7 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 174,
+        "commits": 138,
         "prs": 7,
         "issues": 17
       },
