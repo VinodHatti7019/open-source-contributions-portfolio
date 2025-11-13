@@ -1,49 +1,40 @@
 {
-  "generated_at": "2025-11-12T01:07:27.622020",
+  "generated_at": "2025-11-13T01:07:52.291316",
   "overall": {
-    "total_commits": 138,
+    "total_commits": 121,
     "total_prs": 8,
     "total_issues": 17,
-    "total_repositories": 24,
+    "total_repositories": 25,
     "merged_prs": 3,
     "open_prs": 2,
     "closed_issues": 6,
     "open_issues": 11,
     "forked_repos": 12,
-    "own_repos": 12,
+    "own_repos": 13,
     "pr_merge_rate": 37.5,
     "issue_closure_rate": 35.3
   },
   "streaks": {
-    "current_streak": 0,
-    "longest_streak": 4,
-    "last_contribution": "2025-10-24"
+    "current_streak": 1,
+    "longest_streak": 3,
+    "last_contribution": "2025-11-13"
   },
   "languages": {
     "Python": {
       "count": 8,
-      "percentage": 66.7
+      "percentage": 61.5
     },
     "Unknown": {
-      "count": 3,
-      "percentage": 25.0
+      "count": 4,
+      "percentage": 30.8
     },
     "JavaScript": {
       "count": 1,
-      "percentage": 8.3
+      "percentage": 7.7
     }
   },
   "repositories": {
     "repositories": [
-      {
-        "repository": "VinodHatti7019/Codev",
-        "commits": 30,
-        "prs": 3,
-        "issues": 1,
-        "stars": 1,
-        "forks": 0,
-        "activity_score": 34
-      },
       {
         "repository": "VinodHatti7019/Voice-GenAI-Tool",
         "commits": 29,
@@ -52,6 +43,15 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 33
+      },
+      {
+        "repository": "VinodHatti7019/Codev",
+        "commits": 22,
+        "prs": 3,
+        "issues": 1,
+        "stars": 1,
+        "forks": 0,
+        "activity_score": 26
       },
       {
         "repository": "VinodHatti7019/AI-Interview-Assistant",
@@ -99,22 +99,13 @@
         "activity_score": 11
       },
       {
-        "repository": "VinodHatti7019/GenDev",
-        "commits": 9,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 10
-      },
-      {
         "repository": "VinodHatti7019/About-Me",
-        "commits": 2,
+        "commits": 0,
         "prs": 0,
         "issues": 6,
         "stars": 0,
         "forks": 0,
-        "activity_score": 8
+        "activity_score": 6
       },
       {
         "repository": "VinodHatti7019/ai-agent-workflow-platform",
@@ -124,6 +115,15 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 3
+      },
+      {
+        "repository": "VinodHatti7019/Tryliate",
+        "commits": 2,
+        "prs": 0,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 2
       },
       {
         "repository": "DonCharlesLambert/shippuden-stories",
@@ -196,6 +196,15 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 1
+      },
+      {
+        "repository": "VinodHatti7019/GenDev",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
       }
     ]
   },
@@ -203,13 +212,13 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 138,
+        "commits": 119,
         "prs": 7,
         "issues": 17
       },
       {
         "month": "2025-11",
-        "commits": 0,
+        "commits": 2,
         "prs": 1,
         "issues": 0
       }

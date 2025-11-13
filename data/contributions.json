@@ -1,9 +1,25 @@
 {
   "metadata": {
-    "last_updated": "2025-11-12T01:06:54.323242",
+    "last_updated": "2025-11-13T01:07:20.091257",
     "username": "VinodHatti7019"
   },
   "commits": [
+    {
+      "repository": "VinodHatti7019/Tryliate",
+      "repo_url": "https://github.com/VinodHatti7019/Tryliate",
+      "sha": "b5881f2",
+      "message": "Revise README with project details and badges",
+      "date": "2025-11-13T00:46:20+00:00",
+      "url": "https://github.com/VinodHatti7019/Tryliate/commit/b5881f2df452f646da6123139050233714205f9f"
+    },
+    {
+      "repository": "VinodHatti7019/Tryliate",
+      "repo_url": "https://github.com/VinodHatti7019/Tryliate",
+      "sha": "2f8ac84",
+      "message": "Initial commit",
+      "date": "2025-11-13T00:43:24+00:00",
+      "url": "https://github.com/VinodHatti7019/Tryliate/commit/2f8ac84940bbfec8b95b617d5aa0245f920b1e04"
+    },
     {
       "repository": "VinodHatti7019/minimind",
       "repo_url": "https://github.com/VinodHatti7019/minimind",
@@ -955,158 +971,6 @@
       "message": "Add package.json for web UI project",
       "date": "2025-10-14T01:20:39+00:00",
       "url": "https://github.com/VinodHatti7019/Codev/commit/3789872d9726a7c17e4d1ee9783a388c10132f1f"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "c74a995",
-      "message": "Add submit_script.py for LeetCode formatting",
-      "date": "2025-10-14T00:50:32+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/c74a99585c96b73820596239e2600e611ef251fd"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "7878c44",
-      "message": "Add test case generator for problem descriptions",
-      "date": "2025-10-14T00:48:53+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/7878c449770ac833cbf6a27f447069105bad0dda"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "786e6e5",
-      "message": "Add sample agent task demonstrating custom task creation",
-      "date": "2025-10-14T00:48:40+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/786e6e5d6dfcfc554671afb8f3306b2bd455de2f"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "65f1912",
-      "message": "Add requirements.txt - Python dependencies for Codev agent",
-      "date": "2025-10-14T00:47:10+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/65f191268dd9019d6e5f745cc0be06b35db3de4c"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "6274bc3",
-      "message": "Add example palindrome one-liner extension (strings)",
-      "date": "2025-10-14T00:46:24+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/6274bc37e006aca4b97fc7f426bc54689348400a"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "2d2dd01",
-      "message": "Implement Codev CLI for agent task execution",
-      "date": "2025-10-14T00:45:46+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/2d2dd019b8d72d080492c95f163217d327922b83"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "2342794",
-      "message": "Add DSA pattern library documentation to docs",
-      "date": "2025-10-14T00:44:56+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/23427946ef7810eac7ff5b7499314ca043876171"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "30b5e2b",
-      "message": "Add tool_registry.py - Registry system for agent plugins and tasks",
-      "date": "2025-10-14T00:44:38+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/30b5e2b0963849b39875aebc5cdc5df40b39deb7"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "1f4740c",
-      "message": "Add codev_agent.py - Main agent class for task orchestration",
-      "date": "2025-10-14T00:43:14+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/1f4740c209c02ae33b97c08b53c5fd6680e28f87"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "c1871c3",
-      "message": "Create GitHub Actions workflow for Task Hall of Fame",
-      "date": "2025-10-14T00:41:25+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/c1871c330cdfdea44d658c2fd0bf0211f1213909"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "1a01e9d",
-      "message": "Add comprehensive extension development guide to docs",
-      "date": "2025-10-14T00:32:00+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/1a01e9dbb0f615f56fdfe1c9b773b8efc43a0d7c"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "a9a9df6",
-      "message": "Add comprehensive getting-started guide to docs folder",
-      "date": "2025-10-14T00:29:01+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/a9a9df655ed38030bceb888d6da2c1ca4125935d"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "29a2158",
-      "message": "Add CONTRIBUTING.md with comprehensive community guidelines",
-      "date": "2025-10-14T00:27:12+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/29a21583a18b0831f27f37c88fb3398d7f153692"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "a9cb688",
-      "message": "Update README with comprehensive project vision and documentation",
-      "date": "2025-10-14T00:25:07+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/a9cb68848846b3fa8dbc33b64cc90452c8630fa0"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "sha": "632c44a",
-      "message": "Initial commit",
-      "date": "2025-10-14T00:23:47+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/commit/632c44a8d204d92e200a92cd1289f8c3ec5d11f5"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "a97831e",
-      "message": "✨ Enhance README with comprehensive documentation",
-      "date": "2025-10-14T00:18:36+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/a97831e739c5e48e72afca8f3eceae27b93b85d1"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "sha": "644ea51",
-      "message": "Initial commit",
-      "date": "2025-10-14T00:13:28+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/commit/644ea5195532952328bbd411e97b19f078a9c3ba"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "sha": "59c672c",
-      "message": "Add October 2025 Open Source Journey Milestones section",
-      "date": "2025-10-13T23:43:12+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/commit/59c672cf0bf15e9544a9b912377cd287b5cce491"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "sha": "c737368",
-      "message": "Update README: Add 4 domain paths, ATS-ready tech stack, 5 SaaS projects, BE ISE grad profile",
-      "date": "2025-10-13T03:11:57+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/commit/c7373680b1002c9afc33ecf61546b85acc0ba591"
     }
   ],
   "pull_requests": [
@@ -1616,7 +1480,7 @@
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2025-11-11T01:08:20+00:00"
+      "updated_at": "2025-11-12T01:07:31+00:00"
     },
     {
       "name": "parlant",
@@ -1655,6 +1519,18 @@
       "updated_at": "2025-10-17T18:29:17+00:00"
     },
     {
+      "name": "Tryliate",
+      "full_name": "VinodHatti7019/Tryliate",
+      "url": "https://github.com/VinodHatti7019/Tryliate",
+      "description": "Discover premium affiliate tools, join programs, and earn commissions. The all-in-one platform for creators to find, try, and monetize AI & SaaS tools.",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Unknown",
+      "created_at": "2025-11-13T00:43:24+00:00",
+      "updated_at": "2025-11-13T00:46:24+00:00"
+    },
+    {
       "name": "vinod-journey-2025",
       "full_name": "VinodHatti7019/vinod-journey-2025",
       "url": "https://github.com/VinodHatti7019/vinod-journey-2025",
@@ -1680,15 +1556,15 @@
     }
   ],
   "statistics": {
-    "total_commits": 138,
+    "total_commits": 121,
     "total_prs": 8,
     "total_issues": 17,
-    "total_repositories": 24,
+    "total_repositories": 25,
     "merged_prs": 3,
     "open_prs": 2,
     "closed_issues": 6,
     "open_issues": 11,
     "forked_repos": 12,
-    "own_repos": 12
+    "own_repos": 13
   }
 }
