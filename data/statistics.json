@@ -1,36 +1,36 @@
 {
-  "generated_at": "2025-11-13T01:07:52.291316",
+  "generated_at": "2025-11-14T01:07:27.350022",
   "overall": {
-    "total_commits": 121,
+    "total_commits": 54,
     "total_prs": 8,
     "total_issues": 17,
-    "total_repositories": 25,
+    "total_repositories": 24,
     "merged_prs": 3,
     "open_prs": 2,
     "closed_issues": 6,
     "open_issues": 11,
     "forked_repos": 12,
-    "own_repos": 13,
+    "own_repos": 12,
     "pr_merge_rate": 37.5,
     "issue_closure_rate": 35.3
   },
   "streaks": {
-    "current_streak": 1,
-    "longest_streak": 3,
-    "last_contribution": "2025-11-13"
+    "current_streak": 0,
+    "longest_streak": 2,
+    "last_contribution": "2025-10-24"
   },
   "languages": {
     "Python": {
       "count": 8,
-      "percentage": 61.5
+      "percentage": 66.7
     },
     "Unknown": {
-      "count": 4,
-      "percentage": 30.8
+      "count": 3,
+      "percentage": 25.0
     },
     "JavaScript": {
       "count": 1,
-      "percentage": 7.7
+      "percentage": 8.3
     }
   },
   "repositories": {
@@ -46,48 +46,12 @@
       },
       {
         "repository": "VinodHatti7019/Codev",
-        "commits": 22,
+        "commits": 10,
         "prs": 3,
         "issues": 1,
         "stars": 1,
         "forks": 0,
-        "activity_score": 26
-      },
-      {
-        "repository": "VinodHatti7019/AI-Interview-Assistant",
-        "commits": 16,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 17
-      },
-      {
-        "repository": "VinodHatti7019/IknowAI",
-        "commits": 13,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 13
-      },
-      {
-        "repository": "VinodHatti7019/ChatPDF-QA-Agent",
-        "commits": 13,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 13
-      },
-      {
-        "repository": "VinodHatti7019/AI-Resume-Reviewer",
-        "commits": 11,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 12
+        "activity_score": 14
       },
       {
         "repository": "VinodHatti7019/open-source-contributions-portfolio",
@@ -115,15 +79,6 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 3
-      },
-      {
-        "repository": "VinodHatti7019/Tryliate",
-        "commits": 2,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 2
       },
       {
         "repository": "DonCharlesLambert/shippuden-stories",
@@ -198,6 +153,24 @@
         "activity_score": 1
       },
       {
+        "repository": "VinodHatti7019/AI-Interview-Assistant",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
+        "repository": "VinodHatti7019/AI-Resume-Reviewer",
+        "commits": 0,
+        "prs": 0,
+        "issues": 1,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
         "repository": "VinodHatti7019/GenDev",
         "commits": 0,
         "prs": 0,
@@ -212,13 +185,13 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 119,
+        "commits": 54,
         "prs": 7,
         "issues": 17
       },
       {
         "month": "2025-11",
-        "commits": 2,
+        "commits": 0,
         "prs": 1,
         "issues": 0
       }
