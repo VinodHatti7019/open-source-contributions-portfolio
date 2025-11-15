@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-14T01:07:27.350022",
+  "generated_at": "2025-11-15T01:05:58.227905",
   "overall": {
-    "total_commits": 54,
+    "total_commits": 16,
     "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
@@ -16,7 +16,7 @@
   },
   "streaks": {
     "current_streak": 0,
-    "longest_streak": 2,
+    "longest_streak": 1,
     "last_contribution": "2025-10-24"
   },
   "languages": {
@@ -36,24 +36,6 @@
   "repositories": {
     "repositories": [
       {
-        "repository": "VinodHatti7019/Voice-GenAI-Tool",
-        "commits": 29,
-        "prs": 0,
-        "issues": 4,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 33
-      },
-      {
-        "repository": "VinodHatti7019/Codev",
-        "commits": 10,
-        "prs": 3,
-        "issues": 1,
-        "stars": 1,
-        "forks": 0,
-        "activity_score": 14
-      },
-      {
         "repository": "VinodHatti7019/open-source-contributions-portfolio",
         "commits": 11,
         "prs": 0,
@@ -70,6 +52,24 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 6
+      },
+      {
+        "repository": "VinodHatti7019/Voice-GenAI-Tool",
+        "commits": 1,
+        "prs": 0,
+        "issues": 4,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 5
+      },
+      {
+        "repository": "VinodHatti7019/Codev",
+        "commits": 0,
+        "prs": 3,
+        "issues": 1,
+        "stars": 1,
+        "forks": 0,
+        "activity_score": 4
       },
       {
         "repository": "VinodHatti7019/ai-agent-workflow-platform",
@@ -185,7 +185,7 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 54,
+        "commits": 16,
         "prs": 7,
         "issues": 17
       },
