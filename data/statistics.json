@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-15T01:05:58.227905",
+  "generated_at": "2025-11-16T01:12:00.120207",
   "overall": {
-    "total_commits": 16,
+    "total_commits": 4,
     "total_prs": 8,
     "total_issues": 17,
     "total_repositories": 24,
@@ -36,15 +36,6 @@
   "repositories": {
     "repositories": [
       {
-        "repository": "VinodHatti7019/open-source-contributions-portfolio",
-        "commits": 11,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 11
-      },
-      {
         "repository": "VinodHatti7019/About-Me",
         "commits": 0,
         "prs": 0,
@@ -54,20 +45,20 @@
         "activity_score": 6
       },
       {
-        "repository": "VinodHatti7019/Voice-GenAI-Tool",
-        "commits": 1,
-        "prs": 0,
-        "issues": 4,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 5
-      },
-      {
         "repository": "VinodHatti7019/Codev",
         "commits": 0,
         "prs": 3,
         "issues": 1,
         "stars": 1,
+        "forks": 0,
+        "activity_score": 4
+      },
+      {
+        "repository": "VinodHatti7019/Voice-GenAI-Tool",
+        "commits": 0,
+        "prs": 0,
+        "issues": 4,
+        "stars": 0,
         "forks": 0,
         "activity_score": 4
       },
@@ -185,7 +176,7 @@
     "monthly": [
       {
         "month": "2025-10",
-        "commits": 16,
+        "commits": 4,
         "prs": 7,
         "issues": 17
       },
