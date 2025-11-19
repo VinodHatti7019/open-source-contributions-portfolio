@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T01:07:15.792014",
+  "generated_at": "2025-11-19T01:07:05.512413",
   "overall": {
     "total_commits": 1,
     "total_prs": 8,
@@ -81,6 +81,15 @@
         "activity_score": 1
       },
       {
+        "repository": "HKUDS/DeepCode",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
         "repository": "chroma-core/chroma",
         "commits": 0,
         "prs": 1,
@@ -91,15 +100,6 @@
       },
       {
         "repository": "jingyaogong/minimind",
-        "commits": 0,
-        "prs": 1,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "HKUDS/DeepCode",
         "commits": 0,
         "prs": 1,
         "issues": 0,
