@@ -1,66 +1,44 @@
 {
-  "generated_at": "2025-12-23T01:12:05.120061",
+  "generated_at": "2025-12-24T01:10:31.894122",
   "overall": {
-    "total_commits": 0,
-    "total_prs": 8,
-    "total_issues": 17,
-    "total_repositories": 24,
-    "merged_prs": 3,
-    "open_prs": 2,
-    "closed_issues": 6,
-    "open_issues": 11,
-    "forked_repos": 12,
-    "own_repos": 12,
-    "pr_merge_rate": 37.5,
-    "issue_closure_rate": 35.3
+    "total_commits": 2,
+    "total_prs": 5,
+    "total_issues": 1,
+    "total_repositories": 10,
+    "merged_prs": 0,
+    "open_prs": 1,
+    "closed_issues": 1,
+    "open_issues": 0,
+    "forked_repos": 8,
+    "own_repos": 2,
+    "pr_merge_rate": 0.0,
+    "issue_closure_rate": 100.0
   },
   "streaks": {
-    "current_streak": 0,
-    "longest_streak": 0,
-    "last_contribution": null
+    "current_streak": 1,
+    "longest_streak": 1,
+    "last_contribution": "2025-12-23"
   },
   "languages": {
     "Python": {
-      "count": 8,
-      "percentage": 66.7
+      "count": 1,
+      "percentage": 50.0
     },
     "Unknown": {
-      "count": 3,
-      "percentage": 25.0
-    },
-    "JavaScript": {
       "count": 1,
-      "percentage": 8.3
+      "percentage": 50.0
     }
   },
   "repositories": {
     "repositories": [
       {
-        "repository": "VinodHatti7019/About-Me",
-        "commits": 0,
+        "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
+        "commits": 2,
         "prs": 0,
-        "issues": 6,
+        "issues": 0,
         "stars": 0,
         "forks": 0,
-        "activity_score": 6
-      },
-      {
-        "repository": "VinodHatti7019/Codev",
-        "commits": 0,
-        "prs": 3,
-        "issues": 1,
-        "stars": 1,
-        "forks": 0,
-        "activity_score": 4
-      },
-      {
-        "repository": "VinodHatti7019/Voice-GenAI-Tool",
-        "commits": 0,
-        "prs": 0,
-        "issues": 4,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 4
+        "activity_score": 2
       },
       {
         "repository": "DonCharlesLambert/shippuden-stories",
@@ -70,6 +48,15 @@
         "stars": 0,
         "forks": 0,
         "activity_score": 2
+      },
+      {
+        "repository": "jingyaogong/minimind",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
       },
       {
         "repository": "HKUDS/DeepCode",
@@ -90,61 +77,7 @@
         "activity_score": 1
       },
       {
-        "repository": "jingyaogong/minimind",
-        "commits": 0,
-        "prs": 1,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
         "repository": "ishandutta2007/Top-AI-repos",
-        "commits": 0,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "VinodHatti7019/vinod-journey-2025",
-        "commits": 0,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-        "commits": 0,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "VinodHatti7019/AI-Interview-Assistant",
-        "commits": 0,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "VinodHatti7019/AI-Resume-Reviewer",
-        "commits": 0,
-        "prs": 0,
-        "issues": 1,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 1
-      },
-      {
-        "repository": "VinodHatti7019/GenDev",
         "commits": 0,
         "prs": 0,
         "issues": 1,
@@ -159,13 +92,19 @@
       {
         "month": "2025-10",
         "commits": 0,
-        "prs": 7,
-        "issues": 17
+        "prs": 4,
+        "issues": 1
       },
       {
         "month": "2025-11",
         "commits": 0,
         "prs": 1,
+        "issues": 0
+      },
+      {
+        "month": "2025-12",
+        "commits": 2,
+        "prs": 0,
         "issues": 0
       }
     ]

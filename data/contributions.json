@@ -1,10 +1,38 @@
 {
   "metadata": {
-    "last_updated": "2025-12-23T01:11:33.319122",
-    "username": "VinodHatti7019"
+    "last_updated": "2025-12-24T01:10:20.776872",
+    "username": "VinodHatti-Elepcode"
   },
-  "commits": [],
+  "commits": [
+    {
+      "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "repo_url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "sha": "91d48fa",
+      "message": "Revise README for AI and Python career roadmap",
+      "date": "2025-12-23T19:43:07+00:00",
+      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode/commit/91d48fade079755c591611ec5495864b4f28c94e"
+    },
+    {
+      "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "repo_url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "sha": "dbfc4fe",
+      "message": "Initial commit",
+      "date": "2025-12-23T19:41:32+00:00",
+      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode/commit/dbfc4fecd20288337861c79b9dfa2721745e5270"
+    }
+  ],
   "pull_requests": [
+    {
+      "repository": "jingyaogong/minimind",
+      "repo_url": "https://github.com/jingyaogong/minimind",
+      "number": 507,
+      "title": "Create RESOURCES.md for MiniMind project",
+      "state": "closed",
+      "status": "closed",
+      "created_at": "2025-10-24T14:50:31+00:00",
+      "updated_at": "2025-12-23T20:09:39+00:00",
+      "url": "https://github.com/jingyaogong/minimind/pull/507"
+    },
     {
       "repository": "HKUDS/DeepCode",
       "repo_url": "https://github.com/HKUDS/DeepCode",
@@ -26,50 +54,6 @@
       "created_at": "2025-11-01T01:11:56+00:00",
       "updated_at": "2025-11-07T18:39:07+00:00",
       "url": "https://github.com/chroma-core/chroma/pull/5783"
-    },
-    {
-      "repository": "jingyaogong/minimind",
-      "repo_url": "https://github.com/jingyaogong/minimind",
-      "number": 507,
-      "title": "Create RESOURCES.md for MiniMind project",
-      "state": "open",
-      "status": "open",
-      "created_at": "2025-10-24T14:50:31+00:00",
-      "updated_at": "2025-10-24T14:50:31+00:00",
-      "url": "https://github.com/jingyaogong/minimind/pull/507"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "number": 10,
-      "title": "Add collaboration feature documentation",
-      "state": "closed",
-      "status": "merged",
-      "created_at": "2025-10-14T22:35:23+00:00",
-      "updated_at": "2025-10-14T22:36:05+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/pull/10"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "number": 8,
-      "title": "Add Feature Update 2 with collaborative features",
-      "state": "closed",
-      "status": "merged",
-      "created_at": "2025-10-14T22:19:30+00:00",
-      "updated_at": "2025-10-14T22:20:43+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/pull/8"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "number": 7,
-      "title": "Add Feature Update 1 section to README",
-      "state": "closed",
-      "status": "merged",
-      "created_at": "2025-10-14T22:13:53+00:00",
-      "updated_at": "2025-10-14T22:14:35+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/pull/7"
     },
     {
       "repository": "DonCharlesLambert/shippuden-stories",
@@ -105,262 +89,14 @@
       "created_at": "2025-10-15T00:58:24+00:00",
       "updated_at": "2025-11-11T13:18:47+00:00",
       "url": "https://github.com/ishandutta2007/Top-AI-repos/issues/1"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "number": 1,
-      "title": "Voice-GenAI-Tool",
-      "state": "closed",
-      "comments": 0,
-      "created_at": "2025-10-14T20:56:24+00:00",
-      "updated_at": "2025-10-15T19:46:30+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/1"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "number": 2,
-      "title": "Backend integration",
-      "state": "closed",
-      "comments": 0,
-      "created_at": "2025-10-14T21:24:44+00:00",
-      "updated_at": "2025-10-15T19:45:36+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/2"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "number": 4,
-      "title": "Deployment",
-      "state": "closed",
-      "comments": 0,
-      "created_at": "2025-10-14T21:26:09+00:00",
-      "updated_at": "2025-10-15T19:40:45+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/4"
-    },
-    {
-      "repository": "VinodHatti7019/Voice-GenAI-Tool",
-      "repo_url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "number": 3,
-      "title": "Frontend UI",
-      "state": "closed",
-      "comments": 0,
-      "created_at": "2025-10-14T21:25:20+00:00",
-      "updated_at": "2025-10-15T19:36:59+00:00",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool/issues/3"
-    },
-    {
-      "repository": "VinodHatti7019/Codev",
-      "repo_url": "https://github.com/VinodHatti7019/Codev",
-      "number": 5,
-      "title": "Codev - AI-powered development tool",
-      "state": "open",
-      "comments": 1,
-      "created_at": "2025-10-14T19:57:55+00:00",
-      "updated_at": "2025-10-15T15:39:00+00:00",
-      "url": "https://github.com/VinodHatti7019/Codev/issues/5"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 6,
-      "title": "Documentation update for new features",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T21:23:11+00:00",
-      "updated_at": "2025-10-14T21:23:11+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/6"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 5,
-      "title": "Remove emoji, add professional icons",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T21:22:20+00:00",
-      "updated_at": "2025-10-14T21:22:20+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/5"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 4,
-      "title": "API connection to backend",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T21:21:31+00:00",
-      "updated_at": "2025-10-14T21:21:31+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/4"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 3,
-      "title": "Integrate task chat interface",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T21:19:50+00:00",
-      "updated_at": "2025-10-14T21:19:50+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/3"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 2,
-      "title": "Next.js modern web UI setup (sidebar, dark theme)",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T21:13:13+00:00",
-      "updated_at": "2025-10-14T21:13:13+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/2"
-    },
-    {
-      "repository": "VinodHatti7019/About-Me",
-      "repo_url": "https://github.com/VinodHatti7019/About-Me",
-      "number": 1,
-      "title": "About-Me",
-      "state": "closed",
-      "comments": 0,
-      "created_at": "2025-10-14T20:52:45+00:00",
-      "updated_at": "2025-10-14T20:53:25+00:00",
-      "url": "https://github.com/VinodHatti7019/About-Me/issues/1"
-    },
-    {
-      "repository": "VinodHatti7019/vinod-journey-2025",
-      "repo_url": "https://github.com/VinodHatti7019/vinod-journey-2025",
-      "number": 2,
-      "title": "vinod-journey-2025 - Personal AI/ML learning journey",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T20:08:05+00:00",
-      "updated_at": "2025-10-14T20:08:05+00:00",
-      "url": "https://github.com/VinodHatti7019/vinod-journey-2025/issues/2"
-    },
-    {
-      "repository": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "repo_url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "number": 2,
-      "title": "GenAI-Engineer-Journey-8Months-Zero-to-Hero - Comprehensive learning path",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T20:06:06+00:00",
-      "updated_at": "2025-10-14T20:06:06+00:00",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero/issues/2"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Interview-Assistant",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
-      "number": 1,
-      "title": "AI-Interview-Assistant - AI assistant for interview preparation",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T20:03:55+00:00",
-      "updated_at": "2025-10-14T20:03:55+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant/issues/1"
-    },
-    {
-      "repository": "VinodHatti7019/AI-Resume-Reviewer",
-      "repo_url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
-      "number": 1,
-      "title": "AI-Resume-Reviewer - AI-based resume analysis system",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T20:01:57+00:00",
-      "updated_at": "2025-10-14T20:01:57+00:00",
-      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer/issues/1"
-    },
-    {
-      "repository": "VinodHatti7019/GenDev",
-      "repo_url": "https://github.com/VinodHatti7019/GenDev",
-      "number": 1,
-      "title": "GenDev - Generative development platform",
-      "state": "open",
-      "comments": 0,
-      "created_at": "2025-10-14T19:59:59+00:00",
-      "updated_at": "2025-10-14T19:59:59+00:00",
-      "url": "https://github.com/VinodHatti7019/GenDev/issues/1"
     }
   ],
   "forks": [],
   "repositories": [
     {
-      "name": "About-Me",
-      "full_name": "VinodHatti7019/About-Me",
-      "url": "https://github.com/VinodHatti7019/About-Me",
-      "description": "Config files for my GitHub profile.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Unknown",
-      "created_at": "2025-02-25T17:56:23+00:00",
-      "updated_at": "2025-10-13T23:43:15+00:00"
-    },
-    {
-      "name": "ai-agent-workflow-platform",
-      "full_name": "VinodHatti7019/ai-agent-workflow-platform",
-      "url": "https://github.com/VinodHatti7019/ai-agent-workflow-platform",
-      "description": "A modular AI agent workflow platform with backend, frontend, orchestration scripts, and integrations with Cursor AI, n8n, Airbyte/Inngest. Professional and extensible architecture for building AI-powered automation workflows.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "JavaScript",
-      "created_at": "2025-10-18T17:21:11+00:00",
-      "updated_at": "2025-10-18T18:36:19+00:00"
-    },
-    {
-      "name": "AI-Interview-Assistant",
-      "full_name": "VinodHatti7019/AI-Interview-Assistant",
-      "url": "https://github.com/VinodHatti7019/AI-Interview-Assistant",
-      "description": "Real-time AI interview coach and analyzer with question generation, scoring, and feedback. Built with Python, speech recognition, and OpenAI.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-12T18:13:13+00:00",
-      "updated_at": "2025-10-14T20:25:46+00:00"
-    },
-    {
-      "name": "AI-Resume-Reviewer",
-      "full_name": "VinodHatti7019/AI-Resume-Reviewer",
-      "url": "https://github.com/VinodHatti7019/AI-Resume-Reviewer",
-      "description": "Production-ready AI application for automated resume analysis, ATS scoring, and recruitment optimization. Built with Python, OpenAI API, and Streamlit.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-12T17:59:52+00:00",
-      "updated_at": "2025-10-14T17:40:01+00:00"
-    },
-    {
-      "name": "antenna",
-      "full_name": "VinodHatti7019/antenna",
-      "url": "https://github.com/VinodHatti7019/antenna",
-      "description": "An online toolset to manage and analyze data collected from insect camera traps for research and conservation efforts.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": true,
-      "language": "Unknown",
-      "created_at": "2025-10-13T23:23:17+00:00",
-      "updated_at": "2025-10-13T23:23:17+00:00"
-    },
-    {
-      "name": "ChatPDF-QA-Agent",
-      "full_name": "VinodHatti7019/ChatPDF-QA-Agent",
-      "url": "https://github.com/VinodHatti7019/ChatPDF-QA-Agent",
-      "description": "Enterprise-grade document intelligence system with AI-powered Q&A capabilities. Built with Python, LangChain, Pinecone, and OpenAI embeddings for production environments.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-12T18:02:48+00:00",
-      "updated_at": "2025-10-14T21:48:25+00:00"
-    },
-    {
       "name": "chroma",
-      "full_name": "VinodHatti7019/chroma",
-      "url": "https://github.com/VinodHatti7019/chroma",
+      "full_name": "VinodHatti-Elepcode/chroma",
+      "url": "https://github.com/VinodHatti-Elepcode/chroma",
       "description": "Open-source search and retrieval database for AI applications.",
       "stars": 0,
       "forks": 0,
@@ -370,21 +106,9 @@
       "updated_at": "2025-11-01T01:00:08+00:00"
     },
     {
-      "name": "Codev",
-      "full_name": "VinodHatti7019/Codev",
-      "url": "https://github.com/VinodHatti7019/Codev",
-      "description": "The Vinod-powered AI Agent Automation playground - Your signature AI agent builder",
-      "stars": 1,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-14T00:13:27+00:00",
-      "updated_at": "2025-10-15T18:11:39+00:00"
-    },
-    {
       "name": "cursor",
-      "full_name": "VinodHatti7019/cursor",
-      "url": "https://github.com/VinodHatti7019/cursor",
+      "full_name": "VinodHatti-Elepcode/cursor",
+      "url": "https://github.com/VinodHatti-Elepcode/cursor",
       "description": "The AI Code Editor",
       "stars": 0,
       "forks": 0,
@@ -394,21 +118,9 @@
       "updated_at": "2025-10-16T04:57:17+00:00"
     },
     {
-      "name": "daily-ai-coding",
-      "full_name": "VinodHatti7019/daily-ai-coding",
-      "url": "https://github.com/VinodHatti7019/daily-ai-coding",
-      "description": "Building AI intuition through daily hands-on coding challenges",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": true,
-      "language": "Unknown",
-      "created_at": "2025-10-24T13:57:42+00:00",
-      "updated_at": "2025-10-24T13:57:42+00:00"
-    },
-    {
       "name": "DeepCode",
-      "full_name": "VinodHatti7019/DeepCode",
-      "url": "https://github.com/VinodHatti7019/DeepCode",
+      "full_name": "VinodHatti-Elepcode/DeepCode",
+      "url": "https://github.com/VinodHatti-Elepcode/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "stars": 0,
       "forks": 0,
@@ -419,8 +131,8 @@
     },
     {
       "name": "dify",
-      "full_name": "VinodHatti7019/dify",
-      "url": "https://github.com/VinodHatti7019/dify",
+      "full_name": "VinodHatti-Elepcode/dify",
+      "url": "https://github.com/VinodHatti-Elepcode/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "stars": 0,
       "forks": 0,
@@ -431,8 +143,8 @@
     },
     {
       "name": "dify-docs",
-      "full_name": "VinodHatti7019/dify-docs",
-      "url": "https://github.com/VinodHatti7019/dify-docs",
+      "full_name": "VinodHatti-Elepcode/dify-docs",
+      "url": "https://github.com/VinodHatti-Elepcode/dify-docs",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -442,57 +154,9 @@
       "updated_at": "2025-10-21T11:44:44+00:00"
     },
     {
-      "name": "GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "full_name": "VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "url": "https://github.com/VinodHatti7019/GenAI-Engineer-Journey-8Months-Zero-to-Hero",
-      "description": "Complete 8-month Gen AI Engineer learning journey - from zero to hero. Daily logs, projects, certifications, and startup product showcase. Open to work!",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Unknown",
-      "created_at": "2025-10-12T14:59:51+00:00",
-      "updated_at": "2025-10-12T17:24:18+00:00"
-    },
-    {
-      "name": "GenDev",
-      "full_name": "VinodHatti7019/GenDev",
-      "url": "https://github.com/VinodHatti7019/GenDev",
-      "description": "Custom Copilot extension for DSA/LeetCode problems—auto-generates concise one-liner solutions and workspace automation",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-14T00:23:46+00:00",
-      "updated_at": "2025-10-14T00:50:35+00:00"
-    },
-    {
-      "name": "IknowAI",
-      "full_name": "VinodHatti7019/IknowAI",
-      "url": "https://github.com/VinodHatti7019/IknowAI",
-      "description": "AI-automation knowledge base and tools repository. Community-driven open-source project with #IknowAI and Reset to 0 Mindset branding.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-14T23:10:07+00:00",
-      "updated_at": "2025-10-15T00:19:02+00:00"
-    },
-    {
-      "name": "minimind",
-      "full_name": "VinodHatti7019/minimind",
-      "url": "https://github.com/VinodHatti7019/minimind",
-      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": true,
-      "language": "Python",
-      "created_at": "2025-10-24T13:55:50+00:00",
-      "updated_at": "2025-10-24T14:48:57+00:00"
-    },
-    {
       "name": "n8n",
-      "full_name": "VinodHatti7019/n8n",
-      "url": "https://github.com/VinodHatti7019/n8n",
+      "full_name": "VinodHatti-Elepcode/n8n",
+      "url": "https://github.com/VinodHatti-Elepcode/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "stars": 0,
       "forks": 0,
@@ -503,20 +167,20 @@
     },
     {
       "name": "open-source-contributions-portfolio",
-      "full_name": "VinodHatti7019/open-source-contributions-portfolio",
-      "url": "https://github.com/VinodHatti7019/open-source-contributions-portfolio",
+      "full_name": "VinodHatti-Elepcode/open-source-contributions-portfolio",
+      "url": "https://github.com/VinodHatti-Elepcode/open-source-contributions-portfolio",
       "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2025-12-22T01:14:46+00:00"
+      "updated_at": "2025-12-23T01:12:08+00:00"
     },
     {
       "name": "parlant",
-      "full_name": "VinodHatti7019/parlant",
-      "url": "https://github.com/VinodHatti7019/parlant",
+      "full_name": "VinodHatti-Elepcode/parlant",
+      "url": "https://github.com/VinodHatti-Elepcode/parlant",
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "stars": 0,
       "forks": 0,
@@ -526,21 +190,9 @@
       "updated_at": "2025-10-23T08:43:07+00:00"
     },
     {
-      "name": "relator",
-      "full_name": "VinodHatti7019/relator",
-      "url": "https://github.com/VinodHatti7019/relator",
-      "description": "A GitHub Action that sends beautifully formatted Telegram notifications when new issues are created in your repository. Get instant alerts with issue details, labels as hashtags, and clean formatting.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": true,
-      "language": "Unknown",
-      "created_at": "2025-10-13T23:24:32+00:00",
-      "updated_at": "2025-10-13T23:24:32+00:00"
-    },
-    {
       "name": "transformers",
-      "full_name": "VinodHatti7019/transformers",
-      "url": "https://github.com/VinodHatti7019/transformers",
+      "full_name": "VinodHatti-Elepcode/transformers",
+      "url": "https://github.com/VinodHatti-Elepcode/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": 0,
       "forks": 0,
@@ -550,40 +202,28 @@
       "updated_at": "2025-10-17T18:29:17+00:00"
     },
     {
-      "name": "vinod-journey-2025",
-      "full_name": "VinodHatti7019/vinod-journey-2025",
-      "url": "https://github.com/VinodHatti7019/vinod-journey-2025",
-      "description": "Complete journey documentation of my post-BE ISE learning path, projects, certifications, and career transition. 30-day structured learning roadmap with Python expertise, full-stack development, and startup project (Tryliate). #ReadyToWork #OpenToWork",
+      "name": "VinodHatti-Elepcode",
+      "full_name": "VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "description": "",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Unknown",
-      "created_at": "2025-10-11T19:23:14+00:00",
-      "updated_at": "2025-10-15T15:33:08+00:00"
-    },
-    {
-      "name": "Voice-GenAI-Tool",
-      "full_name": "VinodHatti7019/Voice-GenAI-Tool",
-      "url": "https://github.com/VinodHatti7019/Voice-GenAI-Tool",
-      "description": "Advanced voice AI platform: cloning, transcription, multilingual TTS, real-time streaming. Python, Whisper, ElevenLabs, FastAPI, WebSocket.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Python",
-      "created_at": "2025-10-12T18:16:25+00:00",
-      "updated_at": "2025-10-16T01:35:57+00:00"
+      "created_at": "2025-12-23T19:41:32+00:00",
+      "updated_at": "2025-12-23T19:43:11+00:00"
     }
   ],
   "statistics": {
-    "total_commits": 0,
-    "total_prs": 8,
-    "total_issues": 17,
-    "total_repositories": 24,
-    "merged_prs": 3,
-    "open_prs": 2,
-    "closed_issues": 6,
-    "open_issues": 11,
-    "forked_repos": 12,
-    "own_repos": 12
+    "total_commits": 2,
+    "total_prs": 5,
+    "total_issues": 1,
+    "total_repositories": 10,
+    "merged_prs": 0,
+    "open_prs": 1,
+    "closed_issues": 1,
+    "open_issues": 0,
+    "forked_repos": 8,
+    "own_repos": 2
   }
 }
