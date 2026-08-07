@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-06T01:56:16.704162",
+    "last_updated": "2026-08-07T02:18:40.707480",
     "username": "VinodHatti-AI-Developer"
   },
   "commits": [],
@@ -10,10 +10,10 @@
       "repo_url": "https://github.com/HKUDS/DeepCode",
       "number": 49,
       "title": "Update .gitignore: Add logs/, deepcode_lab/papers/, and mcp_agent.sec…",
-      "state": "open",
-      "status": "open",
+      "state": "closed",
+      "status": "merged",
       "created_at": "2025-10-14T18:38:36+00:00",
-      "updated_at": "2026-02-03T14:27:58+00:00",
+      "updated_at": "2026-08-06T09:14:20+00:00",
       "url": "https://github.com/HKUDS/DeepCode/pull/49"
     },
     {
@@ -170,7 +170,7 @@
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2026-08-05T01:53:58+00:00"
+      "updated_at": "2026-08-06T01:56:35+00:00"
     },
     {
       "name": "parlant",
@@ -214,8 +214,8 @@
     "total_prs": 5,
     "total_issues": 1,
     "total_repositories": 11,
-    "merged_prs": 0,
-    "open_prs": 1,
+    "merged_prs": 1,
+    "open_prs": 0,
     "closed_issues": 1,
     "open_issues": 0,
     "forked_repos": 8,
