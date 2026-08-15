@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T01:19:30.597225",
+  "generated_at": "2026-08-15T00:51:07.298454",
   "overall": {
     "total_commits": 0,
     "total_prs": 5,
     "total_issues": 1,
-    "total_repositories": 11,
+    "total_repositories": 12,
     "merged_prs": 1,
     "open_prs": 0,
     "closed_issues": 1,
     "open_issues": 0,
     "forked_repos": 8,
-    "own_repos": 3,
+    "own_repos": 4,
     "pr_merge_rate": 20.0,
     "issue_closure_rate": 100.0
   },
@@ -20,17 +20,17 @@
     "last_contribution": null
   },
   "languages": {
+    "Unknown": {
+      "count": 2,
+      "percentage": 50.0
+    },
     "TypeScript": {
       "count": 1,
-      "percentage": 33.3
+      "percentage": 25.0
     },
     "Python": {
       "count": 1,
-      "percentage": 33.3
-    },
-    "Unknown": {
-      "count": 1,
-      "percentage": 33.3
+      "percentage": 25.0
     }
   },
   "repositories": {
